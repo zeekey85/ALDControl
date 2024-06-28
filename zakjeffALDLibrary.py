@@ -11,15 +11,17 @@ import asyncio
 import nest_asyncio
 nest_asyncio.apply()
 from alicat import FlowController
+from pylablib.devices import Pfeiffer
 
 #setup logger
 logging.basicConfig(filename='ALD_runtimeLog.log',level=logging.INFO,format="%(asctime)s %(levelname)-8s %(message)s",datefmt="%m/%d/%Y %I:%M:%S %p")
 
 #ALL VARIABLES DEFINED HERE
 
-flow_controller_1 = FlowController(address='/dev/ttty.usbserial-FTF5FCCC',unit="B") #Unit read off the front panel
-flow_controller_2 = FlowController(address='/dev/tty.PL2303G-USBtoUART114410',unit="D") #Unit read off the front panel
+#flow_controller_1 = FlowController(address='/dev/ttty.usbserial-FTF5FCCC',unit="B") #Unit read off the front panel
+#flow_controller_2 = FlowController(address='/dev/tty.PL2303G-USBtoUART114410',unit="D") #Unit read off the front panel
 
+pressaddr = "/dev/tty.usbmodem114401"
 
 valv2addr = "..."
 aldv1addr = "..."
@@ -79,8 +81,13 @@ def setVar(line, oldline):
         if line[i] != -1 & line[i] != oldline[i]: #Set value to -1 for cue to ignore
             setMFC(addresses[i], line[i])
 
-def readPressure(addr):
-    return ("give back pressure here")
+def readPressure(): #DPG202 USB interface
+    print('pressaddr is {}'.format(pressaddr))
+    gauge = Pfeiffer.DPG202(pressaddr)
+    press = gauge.get_pressure()*.00750062
+    gauge.close()
+    return(press)
+
     
 def allOff():
     setVar[np.array([0,0,0,0,0,0,0,0,0,0,0,0,0])]
