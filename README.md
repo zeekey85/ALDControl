@@ -1,6 +1,9 @@
 # ALDControl
 Repo for ALD control custom hardware with Python
 
+28June2024
+- Added the setValve function, which should work now once I get the relay card from Numato lab.
+
 26June2024 Currently, the following seems to be working:
 - Read pressure from Pfeiffer gauge
 - setMFC state
