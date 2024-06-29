@@ -13,6 +13,7 @@ nest_asyncio.apply()
 from alicat import FlowController
 from pylablib.devices import Pfeiffer
 
+#testing, delete this sometime.
 #setup logger
 logging.basicConfig(filename='ALD_runtimeLog.log',level=logging.INFO,format="%(asctime)s %(levelname)-8s %(message)s",datefmt="%m/%d/%Y %I:%M:%S %p")
 
@@ -22,6 +23,10 @@ logging.basicConfig(filename='ALD_runtimeLog.log',level=logging.INFO,format="%(a
 #flow_controller_2 = FlowController(address='/dev/tty.PL2303G-USBtoUART114410',unit="D") #Unit read off the front panel
 
 pressaddr = "/dev/tty.usbmodem114401"
+relayaddr = "/dev/tty..."
+#Open port for communication with relays borrowed from https://github.com/numato/samplecode/tree/master/RelayAndGPIOModules/USBRelayAndGPIOModules/python/usbrelay1_2_4_8
+relayPort = serial.Serial(relayaddr, 19200, timeout=1)
+
 
 valv2addr = "..."
 aldv1addr = "..."
@@ -61,9 +66,13 @@ async def setMFC(flowcontroller, value):
 
 def setValve(addr, value):
     if value == 1:
-        print("Set the valve to open")
-    else:
-        print("Close it")
+        relayPort.write("relay on"+ " "+ str(addr) + "\n\r")
+        logging.info("set valve "+ str(addr)+ "to " str(value))
+    elif value == 0:
+        relayPort.write("relay off"+ " "+ str(addr) + "\n\r")
+        logging.info("set valve "+ str(addr)+ "to " str(value))
+    elif value == "close":
+        relayPort.close()
         
 def setPlasmaPower(addr, power):
     print("set plasma power here")
@@ -79,7 +88,14 @@ def setVar(line, oldline):
     addresses=np.array([flow_controller_1, flow_controller_2, flow_controller_3, flow_controller_4, plasmaaddr, plasmaaddr, aldv1addr, aldv2addr, aldv3addr, aldv4addr, mfcv1addr, mfcv2addr, mfcv3addr, mfcv4addr])
     for i in range(0,len(addresses),1):
         if line[i] != -1 & line[i] != oldline[i]: #Set value to -1 for cue to ignore
-            setMFC(addresses[i], line[i])
+            if i <= 3: #MFCs
+                setMFC(addresses[i], line[i])
+            elif i >3 & i<=5:
+                #plasmas
+            elif i <= 14:
+                setValve(i+2, line[i])
+        else:
+            print("here I am")
 
 def readPressure(): #DPG202 USB interface
     print('pressaddr is {}'.format(pressaddr))
@@ -98,7 +114,7 @@ def aldRun(file, loops):
     dataNP = data.to_numpy()
     #This is the number of loops the user wants to iterate the current file
     for i in range(loops):
-        logging.info(readPressure("3"))
+        logging.info(readPressure())
         #For each row in the .csv file, we want to set the experimental parameters accordingly
         for j in range(0,len(dataNP),1):
             if j >> 0: #Sending the current line and previous line for comparison in setVar
@@ -106,11 +122,4 @@ def aldRun(file, loops):
                 time.sleep(dataNP[j][14])
             elif j == 0: #sending the first line and the first line changed by a bit to ensure all values are set
                 setVar(dataNP[j], dataNP[j]+1)
-                
-                
-                
-                
-                
-                
-                
                 
