@@ -6,6 +6,7 @@ while True:
     i = input("what would you like to do? (manualcontrol, runprogram, exit):  ")
     if i == "exit":
         print("goodbye")
+        aldGO.setValve("whatever", "close")
         break
     elif i == "manualcontrol":
         print("you are now in manual conrol.")
@@ -14,7 +15,7 @@ while True:
             if manualinput == 'done':
                 break
             elif manualinput == 'setMFC':
-                fc=input("which flow controller do you want to set?")
+                fc=input("which flow controller do you want to set? Ar or N2")
                 setpoint=int(input("what setpoint do you want?"))
                 print(asyncio.run(aldGO.setMFC(fc, setpoint)))
             elif manualinput == 'setValve':
