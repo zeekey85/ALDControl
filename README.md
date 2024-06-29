@@ -1,7 +1,7 @@
 # ALDControl
 Repo for ALD control custom hardware with Python
 
-06June2027 Currently, the following seems to be working:
+26June2024 Currently, the following seems to be working:
 - Read pressure from Pfeiffer gauge
 - setMFC state
 - Read in a recipe file (though some of the required functions to actually execute the recipe are still in progress)
