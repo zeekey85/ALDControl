@@ -13,7 +13,6 @@ nest_asyncio.apply()
 from alicat import FlowController
 from pylablib.devices import Pfeiffer
 
-#testing, delete this sometime.
 #setup logger
 logging.basicConfig(filename='ALD_runtimeLog.log',level=logging.INFO,format="%(asctime)s %(levelname)-8s %(message)s",datefmt="%m/%d/%Y %I:%M:%S %p")
 
