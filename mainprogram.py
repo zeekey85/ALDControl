@@ -19,7 +19,9 @@ while True:
                 setpoint=int(input("what setpoint do you want?"))
                 print(asyncio.run(aldGO.setMFC(fc, setpoint)))
             elif manualinput == 'setValve':
-                aldGO.setValve(input('enter addr: '),int(input('enter state (1 = open): ')))
+                addr = input('enter addr: ')
+                state = int(input('enter state (1 = open): '))
+                aldGO.setValve(addr,state)
             elif manualinput == 'setPP':
                 aldGO.setValve(input('enter addr: '),int(input('enter plasma power: ')))
             elif manualinput == 'setPS':

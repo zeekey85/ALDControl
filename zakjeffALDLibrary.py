@@ -15,21 +15,17 @@ from pylablib.devices import Pfeiffer
 
 #setup logger
 logging.basicConfig(filename='ALD_runtimeLog.log',level=logging.INFO,format="%(asctime)s %(levelname)-8s %(message)s",datefmt="%m/%d/%Y %I:%M:%S %p")
-
+logging.info("Starting a new run")
 #ALL VARIABLES DEFINED HERE
 
 #flow_controller_1 = FlowController(address='/dev/ttty.usbserial-FTF5FCCC',unit="B") #Unit read off the front panel
 #flow_controller_2 = FlowController(address='/dev/tty.PL2303G-USBtoUART114410',unit="D") #Unit read off the front panel
 
-pressaddr = "/dev/tty.usbmodem114401"
-relayaddr = "/dev/tty..."
+#pressaddr = "/dev/tty.usbmodem114401"
+#relayaddr = "/dev/tty.usbmodem21101"
 #Open port for communication with relays borrowed from https://github.com/numato/samplecode/tree/master/RelayAndGPIOModules/USBRelayAndGPIOModules/python/usbrelay1_2_4_8
-relayPort = serial.Serial(relayaddr, 19200, timeout=1)
+#relayPort = serial.Serial(relayaddr, 19200, timeout=1)
 
-
-valv2addr = "..."
-aldv1addr = "..."
-plasmaaddr = "..."
 
 
 ################## DON'T TOUCH ANYTHING BELOW THIS LINE ###################
@@ -66,10 +62,10 @@ async def setMFC(flowcontroller, value):
 def setValve(addr, value):
     if value == 1:
         relayPort.write("relay on"+ " "+ str(addr) + "\n\r")
-        logging.info("set valve "+ str(addr)+ "to " str(value))
+        logging.info("set valve "+ str(f'{addr}')+ "to " + str(f'{value}'))
     elif value == 0:
         relayPort.write("relay off"+ " "+ str(addr) + "\n\r")
-        logging.info("set valve "+ str(addr)+ "to " str(value))
+        logging.info("set valve "+ str(addr)+ "to "  + str(value))
     elif value == "close":
         relayPort.close()
         
@@ -89,17 +85,17 @@ def setVar(line, oldline):
         if line[i] != -1 & line[i] != oldline[i]: #Set value to -1 for cue to ignore
             if i <= 3: #MFCs
                 setMFC(addresses[i], line[i])
-            elif i >3 & i<=5:
-                #plasmas
+            elif i >> 3 & i<=5:
+                print("plasma")
             elif i <= 14:
                 setValve(i+2, line[i])
         else:
             print("here I am")
 
 def readPressure(): #DPG202 USB interface
-    print('pressaddr is {}'.format(pressaddr))
     gauge = Pfeiffer.DPG202(pressaddr)
     press = gauge.get_pressure()*.00750062
+    logging.info("The pressure is " + str(press))
     gauge.close()
     return(press)
 
