@@ -28,6 +28,10 @@ while True:
                 aldGO.setValve(input('enter addr: '),input('enter plasma state (1 = on): '))
             elif manualinput == 'getP':
                 print(aldGO.readPressure())
+            elif manualinput == 'getValve':
+                aldGO.getValve()
+            elif manualinput =='closeValve':
+                aldGO.closeValve()
     elif i == "runprogram":
         file = aldGO.fileInput()
         loops = int(input("how many times you wanna run through this thing?"))

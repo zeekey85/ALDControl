@@ -18,13 +18,14 @@ logging.basicConfig(filename='ALD_runtimeLog.log',level=logging.INFO,format="%(a
 logging.info("Starting a new run")
 #ALL VARIABLES DEFINED HERE
 
-#flow_controller_1 = FlowController(address='/dev/ttty.usbserial-FTF5FCCC',unit="B") #Unit read off the front panel
-#flow_controller_2 = FlowController(address='/dev/tty.PL2303G-USBtoUART114410',unit="D") #Unit read off the front panel
+fc1 ='/dev/serial/by-id/usb-FTDI_FT232R_USB_UART_B001OROI-if00-port0' #Ar
+fc2 ='/dev/serial/by-id/usb-FTDI_FT232R_USB_UART_B001OROM-if00-port0'
+fc3 = '/dev/serial/by-id/usb-FTDI_FT232R_USB_UART_B001ORON-if00-port0'
 
-#pressaddr = "/dev/tty.usbmodem114401"
-#relayaddr = "/dev/tty.usbmodem21101"
+pressaddr = "/dev/serial/by-id/usb-Pfeiffer_Vacuum_DPG202-if00"
+relayaddr = "/dev/serial/by-id/usb-Numato_Systems_Pvt._Ltd._Numato_Lab_8_Channel_USB_Relay_Module_NLRL220216A0258-if00"
 #Open port for communication with relays borrowed from https://github.com/numato/samplecode/tree/master/RelayAndGPIOModules/USBRelayAndGPIOModules/python/usbrelay1_2_4_8
-#relayPort = serial.Serial(relayaddr, 19200, timeout=1)
+relayPort = serial.Serial(relayaddr, 19200, timeout=1)
 
 
 
@@ -46,12 +47,19 @@ def fileInput():
 
 async def setMFC(flowcontroller, value):
     if flowcontroller == "Ar":
-        await flow_controller_1.set_flow_rate(value)
-        logging.info("set mfc at " + flowcontroller + "to " + str(f'{value}'))
+        async with FlowController(address=fc1, unit="B") as flow_controller:
+            await flow_controller.set_flow_rate(value)
+        logging.info("set mfc at " + str(f'{flowcontroller}') + "to " + str(f'{value}'))
         msg = "success! I think."
     elif flowcontroller == "N2":
-        await flow_controller_2.set_flow_rate(value)
-        logging.info("set mfc at " + flowcontroller + "to " + str(f'{value}'))
+        async with FlowController(address=fc2, unit="D") as flow_controller:
+            await flow_controller.set_flow_rate(value)
+        logging.info("set mfc at " + str(f'{flowcontroller}') + "to " + str(f'{value}'))
+        msg = "success! I think."
+    elif flowcontroller == "ArP":
+        async with FlorController(address=fc3, unit="B") as flow_controller:
+            await flow_controller.set_flow_rate(value)
+        logging.info("set mfc at " + str(f'{flowcontroller}') + "to " + str(f'{value}'))
         msg = "success! I think."
     else:
         msg = ("Not sure what to do!")
@@ -61,13 +69,29 @@ async def setMFC(flowcontroller, value):
 
 def setValve(addr, value):
     if value == 1:
-        relayPort.write("relay on"+ " "+ str(addr) + "\n\r")
+        relayPort.write(("relay on"+ " "+ str(addr) + "\n\r").encode())
         logging.info("set valve "+ str(f'{addr}')+ "to " + str(f'{value}'))
     elif value == 0:
-        relayPort.write("relay off"+ " "+ str(addr) + "\n\r")
+        relayPort.write(("relay off"+ " "+ str(addr) + "\n\r").encode())
         logging.info("set valve "+ str(addr)+ "to "  + str(value))
     elif value == "close":
         relayPort.close()
+
+def getValve():
+    for i in range(0,9,1):
+        relayPort.write(("relay read " + str(i) + "\n\r").encode())
+        response = relayPort.read(25)
+        if str(response).find("on")>0:
+            print("relay "+str(i)+" is on")
+        elif str(response).find("off")>0:
+            print("relay"+str(i)+" is off")
+        else:
+            print(response)
+
+def closeValve():
+    for i in range(0,9,1):
+        relayPort.write(("relay off "+str(i)+"\n\r").encode())
+
         
 def setPlasmaPower(addr, power):
     print("set plasma power here")
@@ -80,17 +104,19 @@ def setPlasmaState(addr, state):
     
 #This function will call the functions above and take an entire line in the CSV file and set the values of everything accordingly
 def setVar(line, oldline):
-    addresses=np.array([flow_controller_1, flow_controller_2, flow_controller_3, flow_controller_4, plasmaaddr, plasmaaddr, aldv1addr, aldv2addr, aldv3addr, aldv4addr, mfcv1addr, mfcv2addr, mfcv3addr, mfcv4addr])
-    for i in range(0,len(addresses),1):
-        if line[i] != -1 & line[i] != oldline[i]: #Set value to -1 for cue to ignore
+    #addresses=np.array([flow_controller_1, flow_controller_2, flow_controller_3, flow_controller_4, plasmaaddr, plasmaaddr, aldv1addr, aldv2addr, aldv3addr, aldv4addr, mfcv1addr, mfcv2addr, mfcv3addr, mfcv4addr])
+    for i in range(0,14,1):
+        print(str(line[i])+","+str(oldline[i]))
+        if line[i] != -1 and line[i] != oldline[i]: #Set value to -1 for cue to ignore
             if i <= 3: #MFCs
                 setMFC(addresses[i], line[i])
-            elif i >> 3 & i<=5:
+            elif i >> 3 and i<=5:
                 print("plasma")
             elif i <= 14:
-                setValve(i+2, line[i])
+                setValve(i-5, line[i])
+                print("made it to setvalve!")
         else:
-            print("here I am")
+            print("here I am"+str(i))
 
 def readPressure(): #DPG202 USB interface
     gauge = Pfeiffer.DPG202(pressaddr)
@@ -107,14 +133,15 @@ def allOff():
 def aldRun(file, loops):
     data = pd.read_csv(file)
     dataNP = data.to_numpy()
+    print(dataNP)
     #This is the number of loops the user wants to iterate the current file
     for i in range(loops):
         logging.info(readPressure())
         #For each row in the .csv file, we want to set the experimental parameters accordingly
         for j in range(0,len(dataNP),1):
-            if j >> 0: #Sending the current line and previous line for comparison in setVar
+            if j >= 0: #Sending the current line and previous line for comparison in setVar
                 setVar(dataNP[j], dataNP[j-1])
-                time.sleep(dataNP[j][14])
+                time.sleep(dataNP[j][13])
             elif j == 0: #sending the first line and the first line changed by a bit to ensure all values are set
                 setVar(dataNP[j], dataNP[j]+1)
                 
