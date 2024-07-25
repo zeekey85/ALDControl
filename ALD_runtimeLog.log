@@ -177,3 +177,2205 @@
 07/12/2024 12:41:06 PM INFO     set valve 0to 1
 07/12/2024 12:41:06 PM INFO     set valve 8to 1
 07/12/2024 12:41:07 PM INFO     set valve 0to 0
+07/12/2024 02:32:31 PM INFO     Starting a new run
+07/12/2024 02:32:47 PM INFO     The pressure is 7.17809334e-06
+07/12/2024 02:32:47 PM INFO     7.17809334e-06
+07/12/2024 02:32:47 PM INFO     set valve 0to 1
+07/12/2024 02:32:47 PM INFO     set valve 8to 1
+07/12/2024 02:32:48 PM INFO     set valve 0to 0
+07/12/2024 02:32:53 PM INFO     The pressure is 7.17809334e-06
+07/12/2024 02:32:53 PM INFO     7.17809334e-06
+07/12/2024 02:32:53 PM INFO     set valve 0to 1
+07/12/2024 02:32:53 PM INFO     set valve 8to 1
+07/12/2024 02:32:54 PM INFO     set valve 0to 0
+07/12/2024 02:32:59 PM INFO     The pressure is 7.17059272e-06
+07/12/2024 02:32:59 PM INFO     7.17059272e-06
+07/12/2024 02:32:59 PM INFO     set valve 0to 1
+07/12/2024 02:32:59 PM INFO     set valve 8to 1
+07/12/2024 02:33:00 PM INFO     set valve 0to 0
+07/12/2024 02:46:11 PM INFO     Starting a new run
+07/12/2024 02:47:07 PM INFO     Starting a new run
+07/16/2024 03:56:22 PM INFO     Starting a new run
+07/16/2024 03:56:29 PM INFO     set valve 1to 1
+07/16/2024 04:01:14 PM INFO     set valve 3to 0
+07/16/2024 04:01:26 PM INFO     set valve 1to 0
+07/16/2024 04:03:03 PM INFO     set valve 2to 1
+07/16/2024 04:05:59 PM INFO     set valve 1to 1
+07/16/2024 04:07:52 PM INFO     set valve 1to 0
+07/16/2024 04:21:49 PM INFO     set valve 1to 1
+07/16/2024 04:21:59 PM INFO     set mfc at ArMoto 20
+07/16/2024 04:39:11 PM INFO     set valve 1to 1
+07/16/2024 04:40:49 PM INFO     set valve 2to 1
+07/17/2024 11:29:08 AM INFO     set valve 1to 1
+07/17/2024 11:29:49 AM INFO     set valve 1to 0
+07/17/2024 11:34:50 AM INFO     set valve 1to 1
+07/17/2024 11:34:56 AM INFO     set mfc at ArMoto 30
+07/17/2024 11:39:21 AM INFO     set mfc at ArMoto 50
+07/17/2024 11:44:07 AM INFO     set mfc at ArMoto 0
+07/17/2024 11:45:16 AM INFO     set mfc at ArMoto 50
+07/17/2024 11:47:28 AM INFO     set mfc at ArMoto 0
+07/17/2024 12:38:30 PM INFO     Starting a new run
+07/17/2024 12:38:37 PM INFO     The pressure is 7.005579080000001e-06
+07/17/2024 12:38:37 PM INFO     7.005579080000001e-06
+07/17/2024 12:39:29 PM INFO     Starting a new run
+07/17/2024 12:39:33 PM INFO     The pressure is 7.005579080000001e-06
+07/17/2024 12:41:03 PM INFO     Starting a new run
+07/17/2024 12:41:09 PM INFO     The pressure is 7.005579080000001e-06
+07/17/2024 12:45:11 PM INFO     Starting a new run
+07/17/2024 12:45:19 PM INFO     Starting a new run
+07/17/2024 12:45:24 PM INFO     The pressure is 6.99807846e-06
+07/17/2024 12:46:24 PM INFO     The pressure is 6.99807846e-06
+07/17/2024 12:47:24 PM INFO     The pressure is 7.005579080000001e-06
+07/17/2024 12:48:25 PM INFO     The pressure is 6.99807846e-06
+07/17/2024 12:48:44 PM INFO     Starting a new run
+07/17/2024 12:48:48 PM INFO     The pressure is 6.99807846e-06
+07/17/2024 12:48:58 PM INFO     The pressure is 6.99807846e-06
+07/17/2024 12:49:08 PM INFO     The pressure is 6.99807846e-06
+07/17/2024 12:49:18 PM INFO     The pressure is 6.99807846e-06
+07/17/2024 12:49:29 PM INFO     The pressure is 6.99807846e-06
+07/17/2024 12:50:54 PM INFO     Starting a new run
+07/17/2024 12:59:05 PM INFO     Starting a new run
+07/17/2024 12:59:10 PM INFO     The pressure is 6.99807846e-06
+07/17/2024 12:59:20 PM INFO     The pressure is 6.99807846e-06
+07/17/2024 12:59:31 PM INFO     The pressure is 6.99807846e-06
+07/17/2024 12:59:41 PM INFO     The pressure is 6.99807846e-06
+07/17/2024 12:59:51 PM INFO     The pressure is 6.99807846e-06
+07/17/2024 01:00:45 PM INFO     Starting a new run
+07/17/2024 01:00:55 PM INFO     set valve 1to 1
+07/17/2024 01:07:46 PM INFO     set valve 1to 1
+07/17/2024 01:08:06 PM INFO     set valve 1to 0
+07/17/2024 01:08:37 PM INFO     Starting a new run
+07/17/2024 01:08:57 PM INFO     Starting a new run
+07/17/2024 01:09:12 PM INFO     The pressure is 6.99807846e-06
+07/17/2024 01:09:22 PM INFO     The pressure is 6.99807846e-06
+07/17/2024 01:09:33 PM INFO     The pressure is 6.99807846e-06
+07/17/2024 01:11:18 PM INFO     Starting a new run
+07/17/2024 01:11:28 PM INFO     The pressure is 6.99807846e-06
+07/17/2024 01:11:38 PM INFO     The pressure is 6.99807846e-06
+07/17/2024 01:11:48 PM INFO     The pressure is 6.99807846e-06
+07/17/2024 01:13:00 PM INFO     Starting a new run
+07/17/2024 01:13:14 PM INFO     The pressure is 6.99807846e-06
+07/17/2024 01:13:25 PM INFO     The pressure is 6.99807846e-06
+07/17/2024 01:13:35 PM INFO     The pressure is 6.99807846e-06
+07/17/2024 01:16:55 PM INFO     Starting a new run
+07/17/2024 01:17:03 PM INFO     The pressure is 6.99807846e-06
+07/17/2024 01:17:13 PM INFO     The pressure is 6.99807846e-06
+07/17/2024 01:17:23 PM INFO     The pressure is 6.99807846e-06
+07/17/2024 01:19:11 PM INFO     Starting a new run
+07/17/2024 01:19:19 PM INFO     The pressure is 6.99807846e-06
+07/17/2024 01:19:29 PM INFO     The pressure is 6.99807846e-06
+07/17/2024 01:19:39 PM INFO     The pressure is 6.99807846e-06
+07/17/2024 01:23:05 PM INFO     Starting a new run
+07/17/2024 01:23:13 PM INFO     The pressure is 6.99807846e-06
+07/17/2024 01:23:23 PM INFO     The pressure is 6.99807846e-06
+07/17/2024 01:23:33 PM INFO     The pressure is 6.99807846e-06
+07/17/2024 01:24:34 PM INFO     set mfc at ArMoto 30
+07/17/2024 01:26:57 PM INFO     set mfc at ArMoto 0
+07/17/2024 01:27:42 PM INFO     Starting a new run
+07/17/2024 01:27:51 PM INFO     The pressure is 6.99807846e-06
+07/17/2024 01:29:57 PM INFO     Starting a new run
+07/17/2024 01:30:09 PM INFO     The pressure is 6.99807846e-06
+07/17/2024 01:36:14 PM INFO     Starting a new run
+07/17/2024 01:36:26 PM INFO     Starting a new run
+07/17/2024 01:36:43 PM INFO     set mfc at ArMoto 40
+07/17/2024 01:37:08 PM INFO     set mfc at ArMoto 0
+07/17/2024 01:38:20 PM INFO     Starting a new run
+07/17/2024 01:38:31 PM INFO     Starting a new run
+07/17/2024 01:38:49 PM INFO     set mfc at ArMoto 40
+07/17/2024 01:39:07 PM INFO     The pressure is 6.99807846e-06
+07/17/2024 01:40:15 PM INFO     Starting a new run
+07/17/2024 01:40:24 PM INFO     The pressure is 6.99807846e-06
+07/17/2024 01:44:13 PM INFO     Starting a new run
+07/17/2024 01:44:23 PM INFO     The pressure is 6.99807846e-06
+07/17/2024 01:44:33 PM INFO     The pressure is 6.99807846e-06
+07/17/2024 01:45:30 PM INFO     Starting a new run
+07/17/2024 01:45:39 PM INFO     The pressure is 6.99807846e-06
+07/17/2024 01:45:49 PM INFO     The pressure is 6.99807846e-06
+07/17/2024 01:53:50 PM INFO     The pressure is 6.99807846e-06
+07/17/2024 01:54:53 PM INFO     Starting a new run
+07/17/2024 01:54:58 PM INFO     The pressure is 6.99807846e-06
+07/17/2024 01:55:42 PM INFO     Starting a new run
+07/17/2024 03:48:20 PM INFO     Starting a new run
+07/17/2024 03:48:26 PM INFO     The pressure is 6.99807846e-06
+07/17/2024 03:48:43 PM INFO     Starting a new run
+07/17/2024 03:48:48 PM INFO     The pressure is 6.99807846e-06
+07/17/2024 03:48:58 PM INFO     The pressure is 6.99807846e-06
+07/17/2024 03:49:08 PM INFO     The pressure is 6.99807846e-06
+07/17/2024 03:52:33 PM INFO     set mfc at ArMoto 0
+07/17/2024 03:53:29 PM INFO     The pressure is 6.99807846e-06
+07/17/2024 03:53:29 PM INFO     The pressure is 6.99807846e-06
+07/17/2024 03:55:51 PM INFO     Starting a new run
+07/17/2024 03:56:01 PM INFO     The pressure is 6.99807846e-06
+07/17/2024 03:56:01 PM INFO     The pressure is 6.99807846e-06
+07/17/2024 04:08:29 PM INFO     Starting a new run
+07/17/2024 04:08:37 PM INFO     The pressure is 6.99807846e-06
+07/17/2024 04:08:37 PM INFO     The pressure is 6.99807846e-06
+07/17/2024 04:20:21 PM INFO     Starting a new run
+07/17/2024 04:20:27 PM INFO     set mfc at ArMoto 30
+07/17/2024 04:20:27 PM INFO     set mfc at ArMoto 30
+07/17/2024 04:24:09 PM INFO     Starting a new run
+07/17/2024 04:24:15 PM INFO     set mfc at Arto 0
+07/17/2024 04:24:16 PM INFO     set mfc at N2to 0
+07/17/2024 04:24:16 PM INFO     set mfc at ArMoto 30
+07/17/2024 04:24:20 PM INFO     set mfc at Arto 0
+07/17/2024 04:24:20 PM INFO     set mfc at N2to 0
+07/17/2024 04:24:20 PM INFO     set mfc at ArMoto 30
+07/17/2024 04:30:18 PM INFO     Starting a new run
+07/17/2024 04:30:23 PM INFO     set mfc at ArMoto 30
+07/17/2024 04:30:26 PM INFO     set mfc at ArMoto 30
+07/17/2024 04:35:29 PM INFO     Starting a new run
+07/17/2024 04:35:35 PM INFO     set mfc at ArMoto 30
+07/17/2024 04:35:38 PM INFO     set mfc at ArMoto 30
+07/17/2024 04:36:05 PM INFO     Starting a new run
+07/17/2024 04:36:12 PM INFO     set mfc at ArMoto 30
+07/17/2024 04:36:15 PM INFO     set mfc at ArMoto 30
+07/17/2024 04:37:04 PM INFO     Starting a new run
+07/17/2024 04:37:09 PM INFO     set mfc at ArMoto 30
+07/17/2024 04:37:13 PM INFO     set mfc at ArMoto 30
+07/17/2024 04:41:50 PM INFO     Starting a new run
+07/17/2024 04:42:22 PM INFO     Starting a new run
+07/17/2024 04:42:46 PM INFO     Starting a new run
+07/17/2024 04:42:50 PM INFO     set mfc at ArMoto 30
+07/17/2024 04:42:54 PM INFO     set mfc at ArMoto 30
+07/17/2024 04:57:17 PM INFO     Starting a new run
+07/17/2024 04:58:12 PM INFO     Starting a new run
+07/17/2024 04:58:18 PM INFO     set mfc at ArMoto 30
+07/17/2024 04:58:22 PM INFO     set mfc at ArMoto 30
+07/17/2024 04:59:11 PM INFO     Starting a new run
+07/17/2024 04:59:18 PM INFO     set mfc at ArMoto 30
+07/17/2024 04:59:18 PM INFO     set valve to 0
+07/17/2024 04:59:18 PM INFO     set valve 2to 1
+07/17/2024 04:59:18 PM INFO     set valve 3to 0
+07/17/2024 04:59:18 PM INFO     set valve to 0
+07/17/2024 04:59:18 PM INFO     set valve to 1
+07/17/2024 04:59:18 PM INFO     set valve 2to 0
+07/17/2024 04:59:19 PM INFO     set valve 3to 1
+07/17/2024 04:59:20 PM INFO     set valve 3to 0
+07/17/2024 04:59:21 PM INFO     set mfc at ArMoto 30
+07/17/2024 04:59:21 PM INFO     set valve to 0
+07/17/2024 04:59:21 PM INFO     set valve 2to 1
+07/17/2024 04:59:21 PM INFO     set valve 3to 0
+07/17/2024 04:59:21 PM INFO     set valve to 0
+07/17/2024 04:59:21 PM INFO     set valve to 1
+07/17/2024 04:59:21 PM INFO     set valve 2to 0
+07/17/2024 04:59:22 PM INFO     set valve 3to 1
+07/17/2024 04:59:23 PM INFO     set valve 3to 0
+07/18/2024 09:10:05 AM INFO     Starting a new run
+07/18/2024 09:10:11 AM INFO     set mfc at ArMoto 30
+07/18/2024 09:10:11 AM INFO     set valve to 0
+07/18/2024 09:10:11 AM INFO     set valve 2to 1
+07/18/2024 09:10:11 AM INFO     set valve 3to 0
+07/18/2024 09:10:11 AM INFO     set valve to 0
+07/18/2024 09:10:11 AM INFO     set valve to 1
+07/18/2024 09:10:11 AM INFO     set valve 2to 0
+07/18/2024 09:10:12 AM INFO     set valve 3to 1
+07/18/2024 09:10:13 AM INFO     set valve 3to 0
+07/18/2024 09:10:14 AM INFO     set mfc at ArMoto 30
+07/18/2024 09:10:14 AM INFO     set valve to 0
+07/18/2024 09:10:14 AM INFO     set valve 2to 1
+07/18/2024 09:10:14 AM INFO     set valve 3to 0
+07/18/2024 09:10:14 AM INFO     set valve to 0
+07/18/2024 09:10:14 AM INFO     set valve to 1
+07/18/2024 09:10:14 AM INFO     set valve 2to 0
+07/18/2024 09:10:15 AM INFO     set valve 3to 1
+07/18/2024 09:10:16 AM INFO     set valve 3to 0
+07/18/2024 09:13:22 AM INFO     set mfc at ArMoto 30
+07/18/2024 09:13:22 AM INFO     set valve to 0
+07/18/2024 09:13:22 AM INFO     set valve 2to 1
+07/18/2024 09:13:22 AM INFO     set valve 3to 0
+07/18/2024 09:13:22 AM INFO     set valve to 0
+07/18/2024 09:13:22 AM INFO     set valve to 1
+07/18/2024 09:13:22 AM INFO     set valve 2to 0
+07/18/2024 09:13:27 AM INFO     set valve 3to 1
+07/18/2024 09:13:27 AM INFO     set valve 3to 0
+07/18/2024 09:13:32 AM INFO     set mfc at ArMoto 30
+07/18/2024 09:13:32 AM INFO     set valve to 0
+07/18/2024 09:13:32 AM INFO     set valve 2to 1
+07/18/2024 09:13:32 AM INFO     set valve 3to 0
+07/18/2024 09:13:32 AM INFO     set valve to 0
+07/18/2024 09:13:32 AM INFO     set valve to 1
+07/18/2024 09:13:32 AM INFO     set valve 2to 0
+07/18/2024 09:13:37 AM INFO     set valve 3to 1
+07/18/2024 09:13:37 AM INFO     set valve 3to 0
+07/18/2024 09:13:43 AM INFO     set mfc at ArMoto 30
+07/18/2024 09:13:43 AM INFO     set valve to 0
+07/18/2024 09:13:43 AM INFO     set valve 2to 1
+07/18/2024 09:13:43 AM INFO     set valve 3to 0
+07/18/2024 09:13:43 AM INFO     set valve to 0
+07/18/2024 09:13:43 AM INFO     set valve to 1
+07/18/2024 09:13:43 AM INFO     set valve 2to 0
+07/18/2024 09:13:48 AM INFO     set valve 3to 1
+07/18/2024 09:13:48 AM INFO     set valve 3to 0
+07/18/2024 09:13:53 AM INFO     set mfc at ArMoto 30
+07/18/2024 09:13:53 AM INFO     set valve to 0
+07/18/2024 09:13:53 AM INFO     set valve 2to 1
+07/18/2024 09:13:53 AM INFO     set valve 3to 0
+07/18/2024 09:13:53 AM INFO     set valve to 0
+07/18/2024 09:13:53 AM INFO     set valve to 1
+07/18/2024 09:13:53 AM INFO     set valve 2to 0
+07/18/2024 09:13:58 AM INFO     set valve 3to 1
+07/18/2024 09:13:58 AM INFO     set valve 3to 0
+07/18/2024 09:14:42 AM INFO     set valve 2to 1
+07/18/2024 09:14:47 AM INFO     set valve 2to 0
+07/18/2024 09:14:59 AM INFO     set mfc at ArMoto 30
+07/18/2024 09:14:59 AM INFO     set valve to 0
+07/18/2024 09:14:59 AM INFO     set valve 2to 1
+07/18/2024 09:14:59 AM INFO     set valve 3to 0
+07/18/2024 09:14:59 AM INFO     set valve to 0
+07/18/2024 09:14:59 AM INFO     set valve to 1
+07/18/2024 09:14:59 AM INFO     set valve 2to 0
+07/18/2024 09:15:04 AM INFO     set valve 3to 1
+07/18/2024 09:15:04 AM INFO     set valve 3to 0
+07/18/2024 09:15:09 AM INFO     set mfc at ArMoto 30
+07/18/2024 09:15:09 AM INFO     set valve to 0
+07/18/2024 09:15:09 AM INFO     set valve 2to 1
+07/18/2024 09:15:09 AM INFO     set valve 3to 0
+07/18/2024 09:15:09 AM INFO     set valve to 0
+07/18/2024 09:15:09 AM INFO     set valve to 1
+07/18/2024 09:15:09 AM INFO     set valve 2to 0
+07/18/2024 09:15:14 AM INFO     set valve 3to 1
+07/18/2024 09:15:14 AM INFO     set valve 3to 0
+07/18/2024 09:15:20 AM INFO     set mfc at ArMoto 30
+07/18/2024 09:15:20 AM INFO     set valve to 0
+07/18/2024 09:15:20 AM INFO     set valve 2to 1
+07/18/2024 09:15:20 AM INFO     set valve 3to 0
+07/18/2024 09:15:20 AM INFO     set valve to 0
+07/18/2024 09:15:20 AM INFO     set valve to 1
+07/18/2024 09:15:20 AM INFO     set valve 2to 0
+07/18/2024 09:15:25 AM INFO     set valve 3to 1
+07/18/2024 09:15:25 AM INFO     set valve 3to 0
+07/18/2024 09:21:58 AM INFO     Starting a new run
+07/18/2024 09:22:04 AM INFO     set mfc at ArMoto 30
+07/18/2024 09:22:04 AM INFO     set valve to 0
+07/18/2024 09:22:04 AM INFO     set valve 2to 1
+07/18/2024 09:22:04 AM INFO     set valve 3to 0
+07/18/2024 09:22:04 AM INFO     set valve to 0
+07/18/2024 09:22:04 AM INFO     set valve to 1
+07/18/2024 09:22:04 AM INFO     set valve 2to 0
+07/18/2024 09:22:04 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 09:22:09 AM INFO     set valve 3to 1
+07/18/2024 09:22:09 AM INFO     going to sleep for 0.1 seconds
+07/18/2024 09:22:09 AM INFO     set valve 3to 0
+07/18/2024 09:22:09 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 09:22:14 AM INFO     set mfc at ArMoto 30
+07/18/2024 09:22:14 AM INFO     set valve to 0
+07/18/2024 09:22:14 AM INFO     set valve 2to 1
+07/18/2024 09:22:14 AM INFO     set valve 3to 0
+07/18/2024 09:22:14 AM INFO     set valve to 0
+07/18/2024 09:22:14 AM INFO     set valve to 1
+07/18/2024 09:22:14 AM INFO     set valve 2to 0
+07/18/2024 09:22:14 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 09:22:19 AM INFO     set valve 3to 1
+07/18/2024 09:22:19 AM INFO     going to sleep for 0.1 seconds
+07/18/2024 09:22:19 AM INFO     set valve 3to 0
+07/18/2024 09:22:19 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 09:24:44 AM INFO     Starting a new run
+07/18/2024 09:30:46 AM INFO     Starting a new run
+07/18/2024 09:30:53 AM INFO     set mfc at ArMoto 30
+07/18/2024 09:30:53 AM INFO     set valve to 0
+07/18/2024 09:30:53 AM INFO     set valve 2to 1
+07/18/2024 09:30:53 AM INFO     set valve 3to 0
+07/18/2024 09:30:53 AM INFO     set valve to 0
+07/18/2024 09:30:53 AM INFO     set valve to 1
+07/18/2024 09:30:53 AM INFO     set valve 2to 0
+07/18/2024 09:30:53 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 09:31:37 AM INFO     Starting a new run
+07/18/2024 09:31:40 AM INFO     set mfc at ArMoto 30
+07/18/2024 09:31:40 AM INFO     set valve to 0
+07/18/2024 09:31:40 AM INFO     set valve 2to 1
+07/18/2024 09:31:40 AM INFO     set valve 3to 0
+07/18/2024 09:31:40 AM INFO     set valve to 0
+07/18/2024 09:31:40 AM INFO     set valve to 1
+07/18/2024 09:31:40 AM INFO     set valve 2to 0
+07/18/2024 09:31:40 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 09:34:33 AM INFO     Starting a new run
+07/18/2024 09:34:38 AM INFO     set mfc at ArMoto 30
+07/18/2024 09:34:38 AM INFO     set valve to 0
+07/18/2024 09:34:38 AM INFO     set valve 2to 1
+07/18/2024 09:34:38 AM INFO     set valve 3to 0
+07/18/2024 09:34:38 AM INFO     set valve to 0
+07/18/2024 09:34:38 AM INFO     set valve to 1
+07/18/2024 09:34:38 AM INFO     set valve 2to 0
+07/18/2024 09:34:38 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 09:34:43 AM INFO     set valve 3to 1
+07/18/2024 09:34:43 AM INFO     going to sleep for 0.1 seconds
+07/18/2024 09:34:43 AM INFO     set valve 3to 0
+07/18/2024 09:34:43 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 09:34:49 AM INFO     set mfc at ArMoto 30
+07/18/2024 09:34:49 AM INFO     set valve to 0
+07/18/2024 09:34:49 AM INFO     set valve 2to 1
+07/18/2024 09:34:49 AM INFO     set valve 3to 0
+07/18/2024 09:34:49 AM INFO     set valve to 0
+07/18/2024 09:34:49 AM INFO     set valve to 1
+07/18/2024 09:34:49 AM INFO     set valve 2to 0
+07/18/2024 09:34:49 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 09:34:54 AM INFO     set valve 3to 1
+07/18/2024 09:34:54 AM INFO     going to sleep for 0.1 seconds
+07/18/2024 09:34:54 AM INFO     set valve 3to 0
+07/18/2024 09:34:54 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 09:38:14 AM INFO     Starting a new run
+07/18/2024 09:39:24 AM INFO     Starting a new run
+07/18/2024 09:39:28 AM INFO     set mfc at ArMoto 30
+07/18/2024 09:39:28 AM INFO     set valve to 0
+07/18/2024 09:39:28 AM INFO     set valve 2to 1
+07/18/2024 09:39:28 AM INFO     set valve 3to 0
+07/18/2024 09:39:28 AM INFO     set valve to 0
+07/18/2024 09:39:28 AM INFO     set valve to 1
+07/18/2024 09:39:28 AM INFO     set valve 2to 0
+07/18/2024 09:39:28 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 09:39:33 AM INFO     set valve 3to 1
+07/18/2024 09:39:33 AM INFO     going to sleep for 0.1 seconds
+07/18/2024 09:39:33 AM INFO     set valve 3to 0
+07/18/2024 09:39:33 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 09:39:39 AM INFO     set mfc at ArMoto 30
+07/18/2024 09:39:39 AM INFO     set valve to 0
+07/18/2024 09:39:39 AM INFO     set valve 2to 1
+07/18/2024 09:39:39 AM INFO     set valve 3to 0
+07/18/2024 09:39:39 AM INFO     set valve to 0
+07/18/2024 09:39:39 AM INFO     set valve to 1
+07/18/2024 09:39:39 AM INFO     set valve 2to 0
+07/18/2024 09:39:39 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 09:39:44 AM INFO     set valve 3to 1
+07/18/2024 09:39:44 AM INFO     going to sleep for 0.1 seconds
+07/18/2024 09:39:44 AM INFO     set valve 3to 0
+07/18/2024 09:39:44 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 09:42:58 AM INFO     Starting a new run
+07/18/2024 09:44:09 AM INFO     Starting a new run
+07/18/2024 09:44:14 AM INFO     set mfc at ArMoto 30
+07/18/2024 09:44:14 AM INFO     set valve to 0
+07/18/2024 09:44:14 AM INFO     set valve 2to 1
+07/18/2024 09:44:14 AM INFO     set valve 3to 0
+07/18/2024 09:44:14 AM INFO     set valve to 0
+07/18/2024 09:44:14 AM INFO     set valve to 1
+07/18/2024 09:44:14 AM INFO     set valve 2to 0
+07/18/2024 09:44:14 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 09:44:19 AM INFO     set valve 3to 1
+07/18/2024 09:44:19 AM INFO     going to sleep for 0.1 seconds
+07/18/2024 09:44:19 AM INFO     set valve 3to 0
+07/18/2024 09:44:19 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 09:44:24 AM INFO     set mfc at ArMoto 30
+07/18/2024 09:44:24 AM INFO     set valve to 0
+07/18/2024 09:44:24 AM INFO     set valve 2to 1
+07/18/2024 09:44:24 AM INFO     set valve 3to 0
+07/18/2024 09:44:24 AM INFO     set valve to 0
+07/18/2024 09:44:24 AM INFO     set valve to 1
+07/18/2024 09:44:24 AM INFO     set valve 2to 0
+07/18/2024 09:44:24 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 09:44:29 AM INFO     set valve 3to 1
+07/18/2024 09:44:29 AM INFO     going to sleep for 0.1 seconds
+07/18/2024 09:44:29 AM INFO     set valve 3to 0
+07/18/2024 09:44:29 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 09:45:37 AM INFO     set mfc at ArMoto 30
+07/18/2024 09:45:37 AM INFO     set valve 2to 1
+07/18/2024 09:45:37 AM INFO     set valve to 1
+07/18/2024 09:45:37 AM INFO     set valve 2to 0
+07/18/2024 09:45:37 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 09:45:42 AM INFO     set valve 3to 1
+07/18/2024 09:45:42 AM INFO     going to sleep for 0.1 seconds
+07/18/2024 09:45:42 AM INFO     set valve 3to 0
+07/18/2024 09:45:42 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 09:45:47 AM INFO     set mfc at ArMoto 30
+07/18/2024 09:45:47 AM INFO     set valve 2to 1
+07/18/2024 09:45:47 AM INFO     set valve to 1
+07/18/2024 09:45:47 AM INFO     set valve 2to 0
+07/18/2024 09:45:47 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 09:45:52 AM INFO     set valve 3to 1
+07/18/2024 09:45:52 AM INFO     going to sleep for 0.1 seconds
+07/18/2024 09:45:53 AM INFO     set valve 3to 0
+07/18/2024 09:45:53 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 09:46:36 AM INFO     set mfc at ArMoto 30
+07/18/2024 09:46:36 AM INFO     set valve 2to 1
+07/18/2024 09:46:36 AM INFO     set valve to 1
+07/18/2024 09:46:36 AM INFO     set valve 2to 0
+07/18/2024 09:46:36 AM INFO     going to sleep for 5 seconds
+07/18/2024 09:46:41 AM INFO     set valve 3to 1
+07/18/2024 09:46:41 AM INFO     going to sleep for 1 seconds
+07/18/2024 09:46:42 AM INFO     set valve 3to 0
+07/18/2024 09:46:42 AM INFO     going to sleep for 5 seconds
+07/18/2024 09:46:48 AM INFO     set mfc at ArMoto 30
+07/18/2024 09:46:48 AM INFO     set valve 2to 1
+07/18/2024 09:46:48 AM INFO     set valve to 1
+07/18/2024 09:46:48 AM INFO     set valve 2to 0
+07/18/2024 09:46:48 AM INFO     going to sleep for 5 seconds
+07/18/2024 09:46:53 AM INFO     set valve 3to 1
+07/18/2024 09:46:53 AM INFO     going to sleep for 1 seconds
+07/18/2024 09:46:54 AM INFO     set valve 3to 0
+07/18/2024 09:46:54 AM INFO     going to sleep for 5 seconds
+07/18/2024 09:47:16 AM INFO     set valve 2to 1
+07/18/2024 09:47:20 AM INFO     set valve 2to 0
+07/18/2024 09:57:49 AM INFO     Starting a new run
+07/18/2024 09:57:54 AM INFO     set valve 2to 1
+07/18/2024 09:57:54 AM INFO     set valve to 1
+07/18/2024 09:57:54 AM INFO     set valve 2to 0
+07/18/2024 09:57:54 AM INFO     going to sleep for 1.0 seconds
+07/18/2024 09:57:55 AM INFO     set valve 3to 1
+07/18/2024 09:57:55 AM INFO     going to sleep for 0.1 seconds
+07/18/2024 09:57:55 AM INFO     set valve 3to 0
+07/18/2024 09:57:55 AM INFO     going to sleep for 1.0 seconds
+07/18/2024 09:57:56 AM INFO     set valve 2to 1
+07/18/2024 09:57:56 AM INFO     set valve to 1
+07/18/2024 09:57:56 AM INFO     set valve 2to 0
+07/18/2024 09:57:56 AM INFO     going to sleep for 1.0 seconds
+07/18/2024 09:57:57 AM INFO     set valve 3to 1
+07/18/2024 09:57:57 AM INFO     going to sleep for 0.1 seconds
+07/18/2024 09:57:57 AM INFO     set valve 3to 0
+07/18/2024 09:57:57 AM INFO     going to sleep for 1.0 seconds
+07/18/2024 09:57:58 AM INFO     set valve 2to 1
+07/18/2024 09:57:58 AM INFO     set valve to 1
+07/18/2024 09:57:58 AM INFO     set valve 2to 0
+07/18/2024 09:57:58 AM INFO     going to sleep for 1.0 seconds
+07/18/2024 09:57:59 AM INFO     set valve 3to 1
+07/18/2024 09:57:59 AM INFO     going to sleep for 0.1 seconds
+07/18/2024 09:58:00 AM INFO     set valve 3to 0
+07/18/2024 09:58:00 AM INFO     going to sleep for 1.0 seconds
+07/18/2024 09:59:21 AM INFO     Starting a new run
+07/18/2024 09:59:27 AM INFO     set valve 2to 1
+07/18/2024 09:59:27 AM INFO     set valve to 1
+07/18/2024 09:59:27 AM INFO     set valve 2to 0
+07/18/2024 09:59:27 AM INFO     going to sleep for 1.0 seconds
+07/18/2024 09:59:28 AM INFO     set valve 3to 1
+07/18/2024 09:59:28 AM INFO     going to sleep for 0.1 seconds
+07/18/2024 09:59:28 AM INFO     set valve 3to 0
+07/18/2024 09:59:28 AM INFO     going to sleep for 1.0 seconds
+07/18/2024 09:59:29 AM INFO     set valve 2to 1
+07/18/2024 09:59:29 AM INFO     set valve to 1
+07/18/2024 09:59:29 AM INFO     set valve 2to 0
+07/18/2024 09:59:29 AM INFO     going to sleep for 1.0 seconds
+07/18/2024 09:59:30 AM INFO     set valve 3to 1
+07/18/2024 09:59:30 AM INFO     going to sleep for 0.1 seconds
+07/18/2024 09:59:30 AM INFO     set valve 3to 0
+07/18/2024 09:59:30 AM INFO     going to sleep for 1.0 seconds
+07/18/2024 09:59:31 AM INFO     set valve 2to 1
+07/18/2024 09:59:31 AM INFO     set valve to 1
+07/18/2024 09:59:31 AM INFO     set valve 2to 0
+07/18/2024 09:59:31 AM INFO     going to sleep for 1.0 seconds
+07/18/2024 09:59:32 AM INFO     set valve 3to 1
+07/18/2024 09:59:32 AM INFO     going to sleep for 0.1 seconds
+07/18/2024 09:59:33 AM INFO     set valve 3to 0
+07/18/2024 09:59:33 AM INFO     going to sleep for 1.0 seconds
+07/18/2024 10:09:20 AM INFO     Starting a new run
+07/18/2024 10:09:25 AM INFO     set valve 2to 1
+07/18/2024 10:09:25 AM INFO     set valve 1to 1
+07/18/2024 10:09:25 AM INFO     set valve 2to 0
+07/18/2024 10:09:25 AM INFO     going to sleep for 1.0 seconds
+07/18/2024 10:09:26 AM INFO     set valve 3to 1
+07/18/2024 10:09:26 AM INFO     going to sleep for 0.1 seconds
+07/18/2024 10:09:26 AM INFO     set valve 3to 0
+07/18/2024 10:09:26 AM INFO     going to sleep for 1.0 seconds
+07/18/2024 10:09:27 AM INFO     set valve 2to 1
+07/18/2024 10:09:27 AM INFO     set valve 1to 1
+07/18/2024 10:09:27 AM INFO     set valve 2to 0
+07/18/2024 10:09:27 AM INFO     going to sleep for 1.0 seconds
+07/18/2024 10:09:28 AM INFO     set valve 3to 1
+07/18/2024 10:09:28 AM INFO     going to sleep for 0.1 seconds
+07/18/2024 10:09:28 AM INFO     set valve 3to 0
+07/18/2024 10:09:28 AM INFO     going to sleep for 1.0 seconds
+07/18/2024 10:11:41 AM INFO     Starting a new run
+07/18/2024 10:12:03 AM INFO     Starting a new run
+07/18/2024 10:14:21 AM INFO     Starting a new run
+07/18/2024 10:14:26 AM INFO     set valve 2to 1
+07/18/2024 10:14:27 AM INFO     set valve 2to 0
+07/18/2024 10:14:27 AM INFO     set valve 2to 0
+07/18/2024 10:14:28 AM INFO     set valve 2to 0
+07/18/2024 10:14:28 AM INFO     going to sleep for 1.0 seconds
+07/18/2024 10:14:29 AM INFO     set valve 3to 1
+07/18/2024 10:14:29 AM INFO     set valve 3to 0
+07/18/2024 10:14:29 AM INFO     going to sleep for 0.1 seconds
+07/18/2024 10:14:29 AM INFO     set valve 3to 0
+07/18/2024 10:14:30 AM INFO     set valve 3to 0
+07/18/2024 10:14:30 AM INFO     going to sleep for 1.0 seconds
+07/18/2024 10:14:31 AM INFO     set valve 2to 1
+07/18/2024 10:14:31 AM INFO     set valve 2to 0
+07/18/2024 10:14:31 AM INFO     set valve 2to 0
+07/18/2024 10:14:32 AM INFO     set valve 2to 0
+07/18/2024 10:14:32 AM INFO     going to sleep for 1.0 seconds
+07/18/2024 10:14:33 AM INFO     set valve 3to 1
+07/18/2024 10:14:33 AM INFO     set valve 3to 0
+07/18/2024 10:14:33 AM INFO     going to sleep for 0.1 seconds
+07/18/2024 10:14:33 AM INFO     set valve 3to 0
+07/18/2024 10:14:34 AM INFO     set valve 3to 0
+07/18/2024 10:14:34 AM INFO     going to sleep for 1.0 seconds
+07/18/2024 10:15:19 AM INFO     set valve 2to 1
+07/18/2024 10:15:19 AM INFO     set valve 2to 0
+07/18/2024 10:15:19 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 10:15:24 AM INFO     set valve 3to 1
+07/18/2024 10:15:24 AM INFO     set valve 3to 0
+07/18/2024 10:15:24 AM INFO     going to sleep for 0.1 seconds
+07/18/2024 10:15:24 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 10:15:29 AM INFO     set valve 2to 1
+07/18/2024 10:15:29 AM INFO     set valve 2to 0
+07/18/2024 10:15:29 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 10:15:34 AM INFO     set valve 3to 1
+07/18/2024 10:15:34 AM INFO     set valve 3to 0
+07/18/2024 10:15:34 AM INFO     going to sleep for 0.1 seconds
+07/18/2024 10:15:34 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 10:16:24 AM INFO     set valve 2to 1
+07/18/2024 10:16:24 AM INFO     set valve 2to 0
+07/18/2024 10:16:24 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 10:16:29 AM INFO     set valve 3to 1
+07/18/2024 10:16:29 AM INFO     set valve 3to 0
+07/18/2024 10:16:29 AM INFO     going to sleep for 0.1 seconds
+07/18/2024 10:16:29 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 10:16:34 AM INFO     set valve 2to 1
+07/18/2024 10:16:34 AM INFO     set valve 2to 0
+07/18/2024 10:16:34 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 10:16:39 AM INFO     set valve 3to 1
+07/18/2024 10:16:39 AM INFO     set valve 3to 0
+07/18/2024 10:16:39 AM INFO     going to sleep for 0.1 seconds
+07/18/2024 10:16:39 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 10:17:09 AM INFO     set valve 2to 1
+07/18/2024 10:17:09 AM INFO     set valve 2to 0
+07/18/2024 10:17:09 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 10:17:14 AM INFO     set valve 3to 1
+07/18/2024 10:17:15 AM INFO     set valve 3to 0
+07/18/2024 10:17:15 AM INFO     going to sleep for 0.1 seconds
+07/18/2024 10:17:15 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 10:17:20 AM INFO     set valve 2to 1
+07/18/2024 10:17:20 AM INFO     set valve 2to 0
+07/18/2024 10:17:20 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 10:17:25 AM INFO     set valve 3to 1
+07/18/2024 10:17:25 AM INFO     set valve 3to 0
+07/18/2024 10:17:25 AM INFO     going to sleep for 0.1 seconds
+07/18/2024 10:17:25 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 10:17:30 AM INFO     set valve 2to 1
+07/18/2024 10:17:30 AM INFO     set valve 2to 0
+07/18/2024 10:17:30 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 10:17:35 AM INFO     set valve 3to 1
+07/18/2024 10:17:35 AM INFO     set valve 3to 0
+07/18/2024 10:17:35 AM INFO     going to sleep for 0.1 seconds
+07/18/2024 10:17:35 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 10:17:40 AM INFO     set valve 2to 1
+07/18/2024 10:17:40 AM INFO     set valve 2to 0
+07/18/2024 10:17:40 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 10:17:45 AM INFO     set valve 3to 1
+07/18/2024 10:17:45 AM INFO     set valve 3to 0
+07/18/2024 10:17:45 AM INFO     going to sleep for 0.1 seconds
+07/18/2024 10:17:46 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 10:25:32 AM INFO     set valve 1to 1
+07/18/2024 10:25:52 AM INFO     set valve 0to 0
+07/18/2024 10:26:32 AM INFO     set valve 1to 1
+07/18/2024 10:26:45 AM INFO     set mfc at ArMoto 0
+07/18/2024 10:27:52 AM INFO     set mfc at ArMoto 30
+07/18/2024 10:27:52 AM INFO     set valve 2to 1
+07/18/2024 10:27:52 AM INFO     set valve 2to 0
+07/18/2024 10:27:52 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 10:27:57 AM INFO     set valve 3to 1
+07/18/2024 10:27:58 AM INFO     set valve 3to 0
+07/18/2024 10:27:58 AM INFO     going to sleep for 0.1 seconds
+07/18/2024 10:27:58 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 10:28:03 AM INFO     set mfc at ArMoto 30
+07/18/2024 10:28:03 AM INFO     set valve 2to 1
+07/18/2024 10:28:03 AM INFO     set valve 2to 0
+07/18/2024 10:28:03 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 10:28:08 AM INFO     set valve 3to 1
+07/18/2024 10:28:08 AM INFO     set valve 3to 0
+07/18/2024 10:28:08 AM INFO     going to sleep for 0.1 seconds
+07/18/2024 10:28:08 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 10:28:14 AM INFO     set mfc at ArMoto 30
+07/18/2024 10:28:14 AM INFO     set valve 2to 1
+07/18/2024 10:28:14 AM INFO     set valve 2to 0
+07/18/2024 10:28:14 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 10:28:19 AM INFO     set valve 3to 1
+07/18/2024 10:28:19 AM INFO     set valve 3to 0
+07/18/2024 10:28:19 AM INFO     going to sleep for 0.1 seconds
+07/18/2024 10:28:19 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 10:28:24 AM INFO     set mfc at ArMoto 30
+07/18/2024 10:28:24 AM INFO     set valve 2to 1
+07/18/2024 10:28:25 AM INFO     set valve 2to 0
+07/18/2024 10:28:25 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 10:28:30 AM INFO     set valve 3to 1
+07/18/2024 10:28:30 AM INFO     set valve 3to 0
+07/18/2024 10:28:30 AM INFO     going to sleep for 0.1 seconds
+07/18/2024 10:28:30 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 10:28:35 AM INFO     set mfc at ArMoto 30
+07/18/2024 10:28:35 AM INFO     set valve 2to 1
+07/18/2024 10:28:35 AM INFO     set valve 2to 0
+07/18/2024 10:28:35 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 10:28:40 AM INFO     set valve 3to 1
+07/18/2024 10:28:40 AM INFO     set valve 3to 0
+07/18/2024 10:28:40 AM INFO     going to sleep for 0.1 seconds
+07/18/2024 10:28:40 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 10:29:35 AM INFO     set mfc at ArMoto 30
+07/18/2024 10:29:35 AM INFO     set valve 2to 1
+07/18/2024 10:29:35 AM INFO     set valve 2to 0
+07/18/2024 10:29:35 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 10:29:40 AM INFO     set valve 3to 1
+07/18/2024 10:29:40 AM INFO     set valve 3to 0
+07/18/2024 10:29:40 AM INFO     going to sleep for 0.1 seconds
+07/18/2024 10:29:40 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 10:29:46 AM INFO     set mfc at ArMoto 30
+07/18/2024 10:29:46 AM INFO     set valve 2to 1
+07/18/2024 10:29:46 AM INFO     set valve 2to 0
+07/18/2024 10:29:46 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 10:29:51 AM INFO     set valve 3to 1
+07/18/2024 10:29:51 AM INFO     set valve 3to 0
+07/18/2024 10:29:51 AM INFO     going to sleep for 0.1 seconds
+07/18/2024 10:29:51 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 10:29:56 AM INFO     set mfc at ArMoto 30
+07/18/2024 10:29:56 AM INFO     set valve 2to 1
+07/18/2024 10:29:57 AM INFO     set valve 2to 0
+07/18/2024 10:29:57 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 10:30:02 AM INFO     set valve 3to 1
+07/18/2024 10:30:02 AM INFO     set valve 3to 0
+07/18/2024 10:30:02 AM INFO     going to sleep for 0.1 seconds
+07/18/2024 10:30:02 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 10:30:07 AM INFO     set mfc at ArMoto 30
+07/18/2024 10:30:07 AM INFO     set valve 2to 1
+07/18/2024 10:30:07 AM INFO     set valve 2to 0
+07/18/2024 10:30:07 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 10:30:12 AM INFO     set valve 3to 1
+07/18/2024 10:30:12 AM INFO     set valve 3to 0
+07/18/2024 10:30:12 AM INFO     going to sleep for 0.1 seconds
+07/18/2024 10:30:12 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 10:30:18 AM INFO     set mfc at ArMoto 30
+07/18/2024 10:30:18 AM INFO     set valve 2to 1
+07/18/2024 10:30:18 AM INFO     set valve 2to 0
+07/18/2024 10:30:18 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 10:30:23 AM INFO     set valve 3to 1
+07/18/2024 10:30:23 AM INFO     set valve 3to 0
+07/18/2024 10:30:23 AM INFO     going to sleep for 0.1 seconds
+07/18/2024 10:30:23 AM INFO     going to sleep for 5.0 seconds
+07/18/2024 11:11:46 AM INFO     Starting a new run
+07/18/2024 11:11:50 AM INFO     The pressure is 6.990577840000001e-06
+07/24/2024 02:27:34 PM INFO     Starting a new run
+07/24/2024 02:29:10 PM INFO     Starting a new run
+07/24/2024 02:32:37 PM INFO     Starting a new run
+07/24/2024 02:32:46 PM INFO     set mfc at ArMoto 30
+07/24/2024 02:32:46 PM INFO     set valve 2to 1
+07/24/2024 02:32:46 PM INFO     set valve 2to 0
+07/24/2024 02:32:46 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:32:51 PM INFO     set valve 3to 1
+07/24/2024 02:32:51 PM INFO     set valve 3to 0
+07/24/2024 02:32:51 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 02:32:51 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:32:57 PM INFO     set mfc at ArMoto 30
+07/24/2024 02:32:57 PM INFO     set valve 2to 1
+07/24/2024 02:32:57 PM INFO     set valve 2to 0
+07/24/2024 02:32:57 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:33:02 PM INFO     set valve 3to 1
+07/24/2024 02:33:02 PM INFO     set valve 3to 0
+07/24/2024 02:33:02 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 02:33:02 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:33:07 PM INFO     set mfc at ArMoto 30
+07/24/2024 02:33:07 PM INFO     set valve 2to 1
+07/24/2024 02:33:07 PM INFO     set valve 2to 0
+07/24/2024 02:33:07 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:33:12 PM INFO     set valve 3to 1
+07/24/2024 02:33:13 PM INFO     set valve 3to 0
+07/24/2024 02:33:13 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 02:33:13 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:34:04 PM INFO     Starting a new run
+07/24/2024 02:34:11 PM INFO     set mfc at ArMoto 30
+07/24/2024 02:34:11 PM INFO     set valve 2to 1
+07/24/2024 02:34:11 PM INFO     set valve 2to 0
+07/24/2024 02:34:11 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:34:16 PM INFO     set valve 3to 1
+07/24/2024 02:34:16 PM INFO     set valve 3to 0
+07/24/2024 02:34:16 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 02:34:16 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:34:21 PM INFO     set mfc at ArMoto 30
+07/24/2024 02:34:21 PM INFO     set valve 2to 1
+07/24/2024 02:34:22 PM INFO     set valve 2to 0
+07/24/2024 02:34:22 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:34:27 PM INFO     set valve 3to 1
+07/24/2024 02:34:27 PM INFO     set valve 3to 0
+07/24/2024 02:34:27 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 02:34:27 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:37:00 PM INFO     Starting a new run
+07/24/2024 02:37:04 PM INFO     set mfc at ArMoto 30
+07/24/2024 02:37:04 PM INFO     set valve 2to 1
+07/24/2024 02:37:04 PM INFO     set valve 2to 0
+07/24/2024 02:37:04 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:37:09 PM INFO     set valve 3to 1
+07/24/2024 02:37:10 PM INFO     set valve 3to 0
+07/24/2024 02:37:10 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 02:37:10 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:37:15 PM INFO     set mfc at ArMoto 30
+07/24/2024 02:37:15 PM INFO     set valve 2to 1
+07/24/2024 02:37:15 PM INFO     set valve 2to 0
+07/24/2024 02:37:15 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:37:20 PM INFO     set valve 3to 1
+07/24/2024 02:37:20 PM INFO     set valve 3to 0
+07/24/2024 02:37:20 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 02:37:20 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:38:16 PM INFO     Starting a new run
+07/24/2024 02:38:21 PM INFO     set mfc at ArMoto 30
+07/24/2024 02:38:21 PM INFO     set valve 2to 1
+07/24/2024 02:38:21 PM INFO     set valve 2to 0
+07/24/2024 02:38:21 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:38:26 PM INFO     set valve 3to 1
+07/24/2024 02:38:26 PM INFO     set valve 3to 0
+07/24/2024 02:38:26 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 02:38:27 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:38:32 PM INFO     set mfc at ArMoto 30
+07/24/2024 02:38:32 PM INFO     set valve 2to 1
+07/24/2024 02:38:32 PM INFO     set valve 2to 0
+07/24/2024 02:38:32 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:38:37 PM INFO     set valve 3to 1
+07/24/2024 02:38:37 PM INFO     set valve 3to 0
+07/24/2024 02:38:37 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 02:38:37 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:41:32 PM INFO     Starting a new run
+07/24/2024 02:41:42 PM INFO     set mfc at ArMoto 30
+07/24/2024 02:41:42 PM INFO     set valve 2to 1
+07/24/2024 02:41:42 PM INFO     set valve 2to 0
+07/24/2024 02:41:42 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:41:47 PM INFO     set valve 3to 1
+07/24/2024 02:41:47 PM INFO     set valve 3to 0
+07/24/2024 02:41:47 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 02:41:47 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:41:52 PM INFO     set mfc at ArMoto 30
+07/24/2024 02:41:52 PM INFO     set valve 2to 1
+07/24/2024 02:41:53 PM INFO     set valve 2to 0
+07/24/2024 02:41:53 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:41:58 PM INFO     set valve 3to 1
+07/24/2024 02:41:58 PM INFO     set valve 3to 0
+07/24/2024 02:41:58 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 02:41:58 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:42:44 PM INFO     Starting a new run
+07/24/2024 02:42:49 PM INFO     set mfc at ArMoto 30
+07/24/2024 02:42:49 PM INFO     set valve 2to 1
+07/24/2024 02:42:49 PM INFO     set valve 2to 0
+07/24/2024 02:42:49 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:42:54 PM INFO     set valve 3to 1
+07/24/2024 02:42:54 PM INFO     set valve 3to 0
+07/24/2024 02:42:54 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 02:42:55 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:43:00 PM INFO     set mfc at ArMoto 30
+07/24/2024 02:43:00 PM INFO     set valve 2to 1
+07/24/2024 02:43:00 PM INFO     set valve 2to 0
+07/24/2024 02:43:00 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:43:05 PM INFO     set valve 3to 1
+07/24/2024 02:43:05 PM INFO     set valve 3to 0
+07/24/2024 02:43:05 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 02:43:05 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:44:03 PM INFO     Starting a new run
+07/24/2024 02:44:06 PM INFO     set mfc at ArMoto 30
+07/24/2024 02:44:06 PM INFO     set valve 2to 1
+07/24/2024 02:44:06 PM INFO     set valve 2to 0
+07/24/2024 02:44:06 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:44:11 PM INFO     set valve 3to 1
+07/24/2024 02:44:11 PM INFO     set valve 3to 0
+07/24/2024 02:44:11 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 02:44:11 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:44:17 PM INFO     set mfc at ArMoto 30
+07/24/2024 02:44:17 PM INFO     set valve 2to 1
+07/24/2024 02:44:17 PM INFO     set valve 2to 0
+07/24/2024 02:44:17 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:44:22 PM INFO     set valve 3to 1
+07/24/2024 02:44:22 PM INFO     set valve 3to 0
+07/24/2024 02:44:22 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 02:44:22 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:45:47 PM INFO     Starting a new run
+07/24/2024 02:46:12 PM INFO     Starting a new run
+07/24/2024 02:46:19 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 02:46:19 PM INFO     set mfc at ArMoto 30
+07/24/2024 02:46:19 PM INFO     set valve 2to 1
+07/24/2024 02:46:19 PM INFO     set valve 2to 0
+07/24/2024 02:46:19 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:46:24 PM INFO     set valve 3to 1
+07/24/2024 02:46:24 PM INFO     set valve 3to 0
+07/24/2024 02:46:24 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 02:46:25 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:46:30 PM INFO     set mfc at ArMoto 30
+07/24/2024 02:46:30 PM INFO     set valve 2to 1
+07/24/2024 02:46:30 PM INFO     set valve 2to 0
+07/24/2024 02:46:30 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:46:35 PM INFO     set valve 3to 1
+07/24/2024 02:46:35 PM INFO     set valve 3to 0
+07/24/2024 02:46:35 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 02:46:35 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:47:04 PM INFO     Starting a new run
+07/24/2024 02:47:09 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 02:47:09 PM INFO     set mfc at ArMoto 30
+07/24/2024 02:47:09 PM INFO     set valve 2to 1
+07/24/2024 02:47:10 PM INFO     set valve 2to 0
+07/24/2024 02:47:10 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 02:47:24 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:47:29 PM INFO     set valve 3to 1
+07/24/2024 02:47:30 PM INFO     set valve 3to 0
+07/24/2024 02:47:30 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 02:47:30 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:47:35 PM INFO     set mfc at ArMoto 30
+07/24/2024 02:47:35 PM INFO     set valve 2to 1
+07/24/2024 02:47:35 PM INFO     set valve 2to 0
+07/24/2024 02:47:35 PM INFO     The pressure is 6.9755766e-06
+07/24/2024 02:47:40 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:47:50 PM INFO     Starting a new run
+07/24/2024 02:49:41 PM INFO     Starting a new run
+07/24/2024 02:49:49 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 02:49:49 PM INFO     set mfc at ArMoto 30
+07/24/2024 02:49:49 PM INFO     set valve 2to 1
+07/24/2024 02:49:50 PM INFO     set valve 2to 0
+07/24/2024 02:49:50 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 02:49:53 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:49:58 PM INFO     set valve 3to 1
+07/24/2024 02:49:58 PM INFO     set valve 3to 0
+07/24/2024 02:49:58 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 02:49:58 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:50:04 PM INFO     set mfc at ArMoto 30
+07/24/2024 02:50:04 PM INFO     set valve 2to 1
+07/24/2024 02:50:04 PM INFO     set valve 2to 0
+07/24/2024 02:50:04 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 02:50:06 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:50:11 PM INFO     set valve 3to 1
+07/24/2024 02:50:12 PM INFO     set valve 3to 0
+07/24/2024 02:50:12 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 02:50:12 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:55:12 PM INFO     Starting a new run
+07/24/2024 02:55:18 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 02:55:18 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 02:55:19 PM INFO     set mfc at ArMoto 30
+07/24/2024 02:55:19 PM INFO     set valve 2to 1
+07/24/2024 02:55:19 PM INFO     set valve 2to 0
+07/24/2024 02:55:35 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:55:48 PM INFO     Starting a new run
+07/24/2024 02:55:58 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 02:55:58 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 02:55:58 PM INFO     set mfc at ArMoto 30
+07/24/2024 02:55:58 PM INFO     set valve 2to 1
+07/24/2024 02:55:58 PM INFO     set valve 2to 0
+07/24/2024 02:55:58 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:56:03 PM INFO     set valve 3to 1
+07/24/2024 02:56:03 PM INFO     set valve 3to 0
+07/24/2024 02:56:03 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 02:56:03 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:56:22 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 02:56:22 PM INFO     set mfc at ArMoto 30
+07/24/2024 02:56:22 PM INFO     set valve 2to 1
+07/24/2024 02:56:22 PM INFO     set valve 2to 0
+07/24/2024 02:56:22 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:56:27 PM INFO     set valve 3to 1
+07/24/2024 02:56:27 PM INFO     set valve 3to 0
+07/24/2024 02:56:27 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 02:56:27 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:56:35 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 02:56:35 PM INFO     set mfc at ArMoto 30
+07/24/2024 02:56:35 PM INFO     set valve 2to 1
+07/24/2024 02:56:36 PM INFO     set valve 2to 0
+07/24/2024 02:56:36 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:56:40 PM INFO     Starting a new run
+07/24/2024 02:56:48 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 02:56:48 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 02:56:49 PM INFO     set mfc at ArMoto 30
+07/24/2024 02:56:49 PM INFO     set valve 2to 1
+07/24/2024 02:56:49 PM INFO     set valve 2to 0
+07/24/2024 02:56:49 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:56:54 PM INFO     set valve 3to 1
+07/24/2024 02:56:54 PM INFO     set valve 3to 0
+07/24/2024 02:56:54 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 02:56:54 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:57:14 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 02:57:14 PM INFO     set mfc at ArMoto 30
+07/24/2024 02:57:14 PM INFO     set valve 2to 1
+07/24/2024 02:57:14 PM INFO     set valve 2to 0
+07/24/2024 02:57:14 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:57:19 PM INFO     set valve 3to 1
+07/24/2024 02:57:19 PM INFO     set valve 3to 0
+07/24/2024 02:57:19 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 02:57:20 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:57:24 PM INFO     Starting a new run
+07/24/2024 02:57:28 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 02:57:28 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 02:57:29 PM INFO     set mfc at ArMoto 30
+07/24/2024 02:57:29 PM INFO     set valve 2to 1
+07/24/2024 02:57:29 PM INFO     set valve 2to 0
+07/24/2024 02:57:29 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:57:34 PM INFO     set valve 3to 1
+07/24/2024 02:57:34 PM INFO     set valve 3to 0
+07/24/2024 02:57:34 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 02:57:34 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:57:39 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 02:57:40 PM INFO     set mfc at ArMoto 30
+07/24/2024 02:57:40 PM INFO     set valve 2to 1
+07/24/2024 02:57:40 PM INFO     set valve 2to 0
+07/24/2024 02:57:40 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:57:45 PM INFO     set valve 3to 1
+07/24/2024 02:57:45 PM INFO     set valve 3to 0
+07/24/2024 02:57:45 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 02:57:45 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:57:50 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 02:57:50 PM INFO     set mfc at ArMoto 30
+07/24/2024 02:57:50 PM INFO     set valve 2to 1
+07/24/2024 02:57:50 PM INFO     set valve 2to 0
+07/24/2024 02:57:50 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:57:55 PM INFO     set valve 3to 1
+07/24/2024 02:57:55 PM INFO     set valve 3to 0
+07/24/2024 02:57:55 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 02:57:56 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 02:58:21 PM INFO     Starting a new run
+07/24/2024 02:58:25 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 02:58:25 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 02:58:44 PM INFO     Starting a new run
+07/24/2024 02:58:48 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 02:58:48 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 03:00:22 PM INFO     Starting a new run
+07/24/2024 03:00:26 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 03:00:26 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 03:00:26 PM INFO     set mfc at ArMoto 30
+07/24/2024 03:00:26 PM INFO     set valve 2to 1
+07/24/2024 03:00:27 PM INFO     set valve 2to 0
+07/24/2024 03:00:27 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 03:00:32 PM INFO     set valve 3to 1
+07/24/2024 03:00:32 PM INFO     set valve 3to 0
+07/24/2024 03:00:32 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 03:00:32 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 03:00:37 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 03:00:37 PM INFO     set mfc at ArMoto 30
+07/24/2024 03:00:37 PM INFO     set valve 2to 1
+07/24/2024 03:00:37 PM INFO     set valve 2to 0
+07/24/2024 03:00:37 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 03:00:42 PM INFO     set valve 3to 1
+07/24/2024 03:00:42 PM INFO     set valve 3to 0
+07/24/2024 03:00:42 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 03:00:42 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 03:01:13 PM INFO     Starting a new run
+07/24/2024 03:01:20 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 03:01:20 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 03:01:20 PM INFO     set mfc at ArMoto 30
+07/24/2024 03:01:20 PM INFO     set valve 2to 1
+07/24/2024 03:01:20 PM INFO     set valve 2to 0
+07/24/2024 03:01:20 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 03:01:25 PM INFO     set valve 3to 1
+07/24/2024 03:01:25 PM INFO     set valve 3to 0
+07/24/2024 03:01:25 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 03:01:26 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 03:01:31 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 03:01:31 PM INFO     set mfc at ArMoto 30
+07/24/2024 03:01:31 PM INFO     set valve 2to 1
+07/24/2024 03:01:31 PM INFO     set valve 2to 0
+07/24/2024 03:01:31 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 03:01:36 PM INFO     set valve 3to 1
+07/24/2024 03:01:36 PM INFO     set valve 3to 0
+07/24/2024 03:01:36 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 03:01:36 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 03:01:41 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 03:01:42 PM INFO     set mfc at ArMoto 30
+07/24/2024 03:01:42 PM INFO     set valve 2to 1
+07/24/2024 03:01:42 PM INFO     set valve 2to 0
+07/24/2024 03:01:42 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 03:01:47 PM INFO     set valve 3to 1
+07/24/2024 03:01:47 PM INFO     set valve 3to 0
+07/24/2024 03:01:47 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 03:01:47 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 03:16:24 PM INFO     Starting a new run
+07/24/2024 03:16:28 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 03:16:28 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 03:16:39 PM INFO     set mfc at ArMoto 30
+07/24/2024 03:16:39 PM INFO     set valve 2to 1
+07/24/2024 03:16:39 PM INFO     set valve 2to 0
+07/24/2024 03:16:39 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 03:16:44 PM INFO     set valve 3to 1
+07/24/2024 03:16:44 PM INFO     set valve 3to 0
+07/24/2024 03:16:44 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 03:16:44 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 03:16:49 PM INFO     set mfc at ArMoto 30
+07/24/2024 03:16:49 PM INFO     set valve 2to 1
+07/24/2024 03:16:49 PM INFO     set valve 2to 0
+07/24/2024 03:16:49 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 03:16:54 PM INFO     set valve 3to 1
+07/24/2024 03:16:54 PM INFO     set valve 3to 0
+07/24/2024 03:16:54 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 03:16:55 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 03:17:00 PM INFO     set mfc at ArMoto 30
+07/24/2024 03:17:00 PM INFO     set valve 2to 1
+07/24/2024 03:17:00 PM INFO     set valve 2to 0
+07/24/2024 03:17:00 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 03:17:05 PM INFO     set valve 3to 1
+07/24/2024 03:17:05 PM INFO     set valve 3to 0
+07/24/2024 03:17:05 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 03:17:05 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 03:21:44 PM INFO     Starting a new run
+07/24/2024 03:21:48 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 03:21:48 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 03:21:48 PM INFO     set mfc at ArMoto 30
+07/24/2024 03:21:48 PM INFO     set valve 2to 1
+07/24/2024 03:21:48 PM INFO     set valve 2to 0
+07/24/2024 03:21:48 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 03:21:53 PM INFO     set valve 3to 1
+07/24/2024 03:21:53 PM INFO     set valve 3to 0
+07/24/2024 03:21:53 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 03:21:53 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 03:21:58 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 03:21:59 PM INFO     set mfc at ArMoto 30
+07/24/2024 03:21:59 PM INFO     set valve 2to 1
+07/24/2024 03:21:59 PM INFO     set valve 2to 0
+07/24/2024 03:21:59 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 03:22:04 PM INFO     set valve 3to 1
+07/24/2024 03:22:04 PM INFO     set valve 3to 0
+07/24/2024 03:22:04 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 03:22:04 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 03:22:09 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 03:22:10 PM INFO     set mfc at ArMoto 30
+07/24/2024 03:22:10 PM INFO     set valve 2to 1
+07/24/2024 03:22:10 PM INFO     set valve 2to 0
+07/24/2024 03:22:10 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 03:22:15 PM INFO     set valve 3to 1
+07/24/2024 03:22:15 PM INFO     set valve 3to 0
+07/24/2024 03:22:15 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 03:22:15 PM INFO     going to sleep for 5.0 seconds
+07/24/2024 03:22:41 PM INFO     Starting a new run
+07/24/2024 03:22:47 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 03:22:47 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 03:22:47 PM INFO     set mfc at ArMoto 30
+07/24/2024 03:22:47 PM INFO     set valve 2to 1
+07/24/2024 03:22:48 PM INFO     set valve 2to 0
+07/24/2024 03:22:48 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 03:22:49 PM INFO     set valve 3to 1
+07/24/2024 03:22:49 PM INFO     set valve 3to 0
+07/24/2024 03:22:49 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 03:22:49 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 03:22:50 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 03:22:50 PM INFO     set mfc at ArMoto 30
+07/24/2024 03:22:50 PM INFO     set valve 2to 1
+07/24/2024 03:22:50 PM INFO     set valve 2to 0
+07/24/2024 03:22:50 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 03:22:51 PM INFO     set valve 3to 1
+07/24/2024 03:22:51 PM INFO     set valve 3to 0
+07/24/2024 03:22:51 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 03:22:51 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 03:22:52 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 03:22:53 PM INFO     set mfc at ArMoto 30
+07/24/2024 03:22:53 PM INFO     set valve 2to 1
+07/24/2024 03:22:53 PM INFO     set valve 2to 0
+07/24/2024 03:22:53 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 03:22:54 PM INFO     set valve 3to 1
+07/24/2024 03:22:54 PM INFO     set valve 3to 0
+07/24/2024 03:22:54 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 03:22:54 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 03:27:44 PM INFO     Starting a new run
+07/24/2024 03:28:14 PM INFO     set valve 2to 1
+07/24/2024 03:28:14 PM INFO     set valve 2to 0
+07/24/2024 03:28:14 PM INFO     going to sleep for 10.0 seconds
+07/24/2024 03:28:24 PM INFO     set valve 3to 1
+07/24/2024 03:28:24 PM INFO     set valve 3to 0
+07/24/2024 03:28:24 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 03:28:25 PM INFO     going to sleep for 20.0 seconds
+07/24/2024 03:29:09 PM INFO     Starting a new run
+07/24/2024 03:29:13 PM INFO     set valve 2to 1
+07/24/2024 03:29:13 PM INFO     set valve 2to 0
+07/24/2024 03:29:13 PM INFO     going to sleep for 10.0 seconds
+07/24/2024 03:29:23 PM INFO     set valve 3to 1
+07/24/2024 03:29:23 PM INFO     set valve 3to 0
+07/24/2024 03:29:23 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 03:29:23 PM INFO     going to sleep for 20.0 seconds
+07/24/2024 03:29:43 PM INFO     set valve 2to 1
+07/24/2024 03:29:43 PM INFO     set valve 2to 0
+07/24/2024 03:29:43 PM INFO     going to sleep for 10.0 seconds
+07/24/2024 03:29:53 PM INFO     set valve 3to 1
+07/24/2024 03:29:53 PM INFO     set valve 3to 0
+07/24/2024 03:29:53 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 03:29:53 PM INFO     going to sleep for 20.0 seconds
+07/24/2024 03:30:13 PM INFO     set valve 2to 1
+07/24/2024 03:30:13 PM INFO     set valve 2to 0
+07/24/2024 03:30:13 PM INFO     going to sleep for 10.0 seconds
+07/24/2024 03:30:23 PM INFO     set valve 3to 1
+07/24/2024 03:30:24 PM INFO     set valve 3to 0
+07/24/2024 03:30:24 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 03:30:24 PM INFO     going to sleep for 20.0 seconds
+07/24/2024 03:30:44 PM INFO     set valve 2to 1
+07/24/2024 03:30:44 PM INFO     set valve 2to 0
+07/24/2024 03:30:44 PM INFO     going to sleep for 10.0 seconds
+07/24/2024 03:30:54 PM INFO     set valve 3to 1
+07/24/2024 03:30:54 PM INFO     set valve 3to 0
+07/24/2024 03:30:54 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 03:30:54 PM INFO     going to sleep for 20.0 seconds
+07/24/2024 03:31:14 PM INFO     set valve 2to 1
+07/24/2024 03:31:14 PM INFO     set valve 2to 0
+07/24/2024 03:31:14 PM INFO     going to sleep for 10.0 seconds
+07/24/2024 03:31:24 PM INFO     set valve 3to 1
+07/24/2024 03:31:24 PM INFO     set valve 3to 0
+07/24/2024 03:31:24 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 03:31:24 PM INFO     going to sleep for 20.0 seconds
+07/24/2024 03:31:44 PM INFO     set valve 2to 1
+07/24/2024 03:31:44 PM INFO     set valve 2to 0
+07/24/2024 03:31:44 PM INFO     going to sleep for 10.0 seconds
+07/24/2024 03:31:54 PM INFO     set valve 3to 1
+07/24/2024 03:31:54 PM INFO     set valve 3to 0
+07/24/2024 03:31:54 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 03:31:55 PM INFO     going to sleep for 20.0 seconds
+07/24/2024 03:32:15 PM INFO     set valve 2to 1
+07/24/2024 03:32:15 PM INFO     set valve 2to 0
+07/24/2024 03:32:15 PM INFO     going to sleep for 10.0 seconds
+07/24/2024 03:32:25 PM INFO     set valve 3to 1
+07/24/2024 03:32:25 PM INFO     set valve 3to 0
+07/24/2024 03:32:25 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 03:32:25 PM INFO     going to sleep for 20.0 seconds
+07/24/2024 03:32:45 PM INFO     set valve 2to 1
+07/24/2024 03:32:45 PM INFO     set valve 2to 0
+07/24/2024 03:32:45 PM INFO     going to sleep for 10.0 seconds
+07/24/2024 03:32:55 PM INFO     set valve 3to 1
+07/24/2024 03:32:55 PM INFO     set valve 3to 0
+07/24/2024 03:32:55 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 03:32:55 PM INFO     going to sleep for 20.0 seconds
+07/24/2024 03:33:15 PM INFO     set valve 2to 1
+07/24/2024 03:33:15 PM INFO     set valve 2to 0
+07/24/2024 03:33:15 PM INFO     going to sleep for 10.0 seconds
+07/24/2024 03:33:25 PM INFO     set valve 3to 1
+07/24/2024 03:33:25 PM INFO     set valve 3to 0
+07/24/2024 03:33:25 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 03:33:25 PM INFO     going to sleep for 20.0 seconds
+07/24/2024 03:33:45 PM INFO     set valve 2to 1
+07/24/2024 03:33:46 PM INFO     set valve 2to 0
+07/24/2024 03:33:46 PM INFO     going to sleep for 10.0 seconds
+07/24/2024 03:33:56 PM INFO     set valve 3to 1
+07/24/2024 03:33:56 PM INFO     set valve 3to 0
+07/24/2024 03:33:56 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 03:33:56 PM INFO     going to sleep for 20.0 seconds
+07/24/2024 05:09:41 PM INFO     Starting a new run
+07/24/2024 05:10:44 PM INFO     Starting a new run
+07/24/2024 05:11:00 PM INFO     Starting a new run
+07/24/2024 05:11:05 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:11:05 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:11:05 PM INFO     set valve 2to 1
+07/24/2024 05:11:05 PM INFO     set valve 2to 0
+07/24/2024 05:11:05 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:11:06 PM INFO     set valve 3to 1
+07/24/2024 05:11:06 PM INFO     set valve 3to 0
+07/24/2024 05:11:06 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:11:06 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:11:07 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:11:07 PM INFO     set valve 2to 1
+07/24/2024 05:11:07 PM INFO     set valve 2to 0
+07/24/2024 05:11:07 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:11:08 PM INFO     set valve 3to 1
+07/24/2024 05:11:09 PM INFO     set valve 3to 0
+07/24/2024 05:11:09 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:11:09 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:11:10 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:11:10 PM INFO     set valve 2to 1
+07/24/2024 05:11:10 PM INFO     set valve 2to 0
+07/24/2024 05:11:10 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:11:11 PM INFO     set valve 3to 1
+07/24/2024 05:11:11 PM INFO     set valve 3to 0
+07/24/2024 05:11:11 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:11:11 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:12:08 PM INFO     Starting a new run
+07/24/2024 05:12:15 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:12:15 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:12:16 PM INFO     set valve 2to 1
+07/24/2024 05:12:16 PM INFO     set valve 2to 0
+07/24/2024 05:12:16 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:12:17 PM INFO     set valve 3to 1
+07/24/2024 05:12:17 PM INFO     set valve 3to 0
+07/24/2024 05:12:17 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:12:17 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:12:18 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:12:18 PM INFO     set valve 2to 1
+07/24/2024 05:12:18 PM INFO     set valve 2to 0
+07/24/2024 05:12:18 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:12:19 PM INFO     set valve 3to 1
+07/24/2024 05:12:19 PM INFO     set valve 3to 0
+07/24/2024 05:12:19 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:12:19 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:12:20 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:12:20 PM INFO     set valve 2to 1
+07/24/2024 05:12:20 PM INFO     set valve 2to 0
+07/24/2024 05:12:20 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:12:21 PM INFO     set valve 3to 1
+07/24/2024 05:12:22 PM INFO     set valve 3to 0
+07/24/2024 05:12:22 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:12:22 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:13:31 PM INFO     Starting a new run
+07/24/2024 05:13:42 PM INFO     Starting a new run
+07/24/2024 05:13:46 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:13:46 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:13:46 PM INFO     set valve 2to 1
+07/24/2024 05:13:46 PM INFO     set valve 2to 0
+07/24/2024 05:13:46 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:13:47 PM INFO     set valve 3to 1
+07/24/2024 05:13:47 PM INFO     set valve 3to 0
+07/24/2024 05:13:47 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:13:48 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:13:49 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:13:49 PM INFO     set valve 2to 1
+07/24/2024 05:13:49 PM INFO     set valve 2to 0
+07/24/2024 05:13:49 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:13:50 PM INFO     set valve 3to 1
+07/24/2024 05:13:50 PM INFO     set valve 3to 0
+07/24/2024 05:13:50 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:13:50 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:13:51 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:13:51 PM INFO     set valve 2to 1
+07/24/2024 05:13:51 PM INFO     set valve 2to 0
+07/24/2024 05:13:51 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:13:52 PM INFO     set valve 3to 1
+07/24/2024 05:13:52 PM INFO     set valve 3to 0
+07/24/2024 05:13:52 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:13:52 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:19:45 PM INFO     Starting a new run
+07/24/2024 05:19:51 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:19:51 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:20:07 PM INFO     Starting a new run
+07/24/2024 05:20:12 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:20:12 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:20:21 PM INFO     Starting a new run
+07/24/2024 05:20:25 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:20:25 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:20:48 PM INFO     Starting a new run
+07/24/2024 05:20:54 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:20:54 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:20:55 PM INFO     set valve 2to 1
+07/24/2024 05:20:55 PM INFO     set valve 2to 0
+07/24/2024 05:20:55 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:20:56 PM INFO     set valve 3to 1
+07/24/2024 05:20:56 PM INFO     set valve 3to 0
+07/24/2024 05:20:56 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:20:56 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:20:57 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:20:57 PM INFO     set valve 2to 1
+07/24/2024 05:20:57 PM INFO     set valve 2to 0
+07/24/2024 05:20:57 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:20:58 PM INFO     set valve 3to 1
+07/24/2024 05:20:58 PM INFO     set valve 3to 0
+07/24/2024 05:20:58 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:20:58 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:20:59 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:20:59 PM INFO     set valve 2to 1
+07/24/2024 05:21:00 PM INFO     set valve 2to 0
+07/24/2024 05:21:00 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:21:01 PM INFO     set valve 3to 1
+07/24/2024 05:21:01 PM INFO     set valve 3to 0
+07/24/2024 05:21:01 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:21:01 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:25:08 PM INFO     Starting a new run
+07/24/2024 05:25:13 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:25:13 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:25:13 PM INFO     set valve 2to 1
+07/24/2024 05:25:13 PM INFO     set valve 2to 0
+07/24/2024 05:25:13 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:25:14 PM INFO     set valve 3to 1
+07/24/2024 05:25:14 PM INFO     set valve 3to 0
+07/24/2024 05:25:14 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:25:14 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:25:15 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:25:16 PM INFO     set valve 2to 1
+07/24/2024 05:25:16 PM INFO     set valve 2to 0
+07/24/2024 05:25:16 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:25:17 PM INFO     set valve 3to 1
+07/24/2024 05:25:17 PM INFO     set valve 3to 0
+07/24/2024 05:25:17 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:25:17 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:25:18 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:25:18 PM INFO     set valve 2to 1
+07/24/2024 05:25:18 PM INFO     set valve 2to 0
+07/24/2024 05:25:18 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:25:19 PM INFO     set valve 3to 1
+07/24/2024 05:25:19 PM INFO     set valve 3to 0
+07/24/2024 05:25:19 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:25:19 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:26:21 PM INFO     Starting a new run
+07/24/2024 05:26:27 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:26:27 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:28:55 PM INFO     Starting a new run
+07/24/2024 05:29:00 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:29:01 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:29:01 PM INFO     set valve 2to 1
+07/24/2024 05:29:01 PM INFO     set valve 2to 0
+07/24/2024 05:29:01 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:29:02 PM INFO     set valve 3to 1
+07/24/2024 05:29:02 PM INFO     set valve 3to 0
+07/24/2024 05:29:02 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:29:02 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:29:03 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:29:03 PM INFO     set valve 2to 1
+07/24/2024 05:29:03 PM INFO     set valve 2to 0
+07/24/2024 05:29:03 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:29:04 PM INFO     set valve 3to 1
+07/24/2024 05:29:04 PM INFO     set valve 3to 0
+07/24/2024 05:29:04 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:29:05 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:29:06 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:29:06 PM INFO     set valve 2to 1
+07/24/2024 05:29:06 PM INFO     set valve 2to 0
+07/24/2024 05:29:06 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:29:07 PM INFO     set valve 3to 1
+07/24/2024 05:29:07 PM INFO     set valve 3to 0
+07/24/2024 05:29:07 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:29:07 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:29:27 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:29:27 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:29:27 PM INFO     set valve 2to 1
+07/24/2024 05:29:27 PM INFO     set valve 2to 0
+07/24/2024 05:29:27 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:29:28 PM INFO     set valve 3to 1
+07/24/2024 05:29:29 PM INFO     set valve 3to 0
+07/24/2024 05:29:29 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:29:29 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:29:30 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:29:30 PM INFO     set valve 2to 1
+07/24/2024 05:29:30 PM INFO     set valve 2to 0
+07/24/2024 05:29:30 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:29:31 PM INFO     set valve 3to 1
+07/24/2024 05:29:31 PM INFO     set valve 3to 0
+07/24/2024 05:29:31 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:29:31 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:29:32 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:29:32 PM INFO     set valve 2to 1
+07/24/2024 05:29:32 PM INFO     set valve 2to 0
+07/24/2024 05:29:32 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:29:33 PM INFO     set valve 3to 1
+07/24/2024 05:29:33 PM INFO     set valve 3to 0
+07/24/2024 05:29:33 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:29:34 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:29:35 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:29:35 PM INFO     set valve 2to 1
+07/24/2024 05:29:35 PM INFO     set valve 2to 0
+07/24/2024 05:29:35 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:29:36 PM INFO     set valve 3to 1
+07/24/2024 05:29:36 PM INFO     set valve 3to 0
+07/24/2024 05:29:36 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:29:36 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:29:37 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:29:37 PM INFO     set valve 2to 1
+07/24/2024 05:29:37 PM INFO     set valve 2to 0
+07/24/2024 05:29:37 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:29:38 PM INFO     set valve 3to 1
+07/24/2024 05:29:38 PM INFO     set valve 3to 0
+07/24/2024 05:29:38 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:29:39 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:30:01 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:30:01 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:30:02 PM INFO     set valve 2to 1
+07/24/2024 05:30:02 PM INFO     set valve 2to 0
+07/24/2024 05:30:02 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:30:03 PM INFO     set valve 3to 1
+07/24/2024 05:30:03 PM INFO     set valve 3to 0
+07/24/2024 05:30:03 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:30:03 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:30:04 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:30:04 PM INFO     set valve 2to 1
+07/24/2024 05:30:04 PM INFO     set valve 2to 0
+07/24/2024 05:30:04 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:30:05 PM INFO     set valve 3to 1
+07/24/2024 05:30:05 PM INFO     set valve 3to 0
+07/24/2024 05:30:05 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:30:05 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:30:06 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:30:06 PM INFO     set valve 2to 1
+07/24/2024 05:30:07 PM INFO     set valve 2to 0
+07/24/2024 05:30:07 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:30:08 PM INFO     set valve 3to 1
+07/24/2024 05:30:08 PM INFO     set valve 3to 0
+07/24/2024 05:30:08 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:30:08 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:30:09 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:30:09 PM INFO     set valve 2to 1
+07/24/2024 05:30:09 PM INFO     set valve 2to 0
+07/24/2024 05:30:09 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:30:10 PM INFO     set valve 3to 1
+07/24/2024 05:30:10 PM INFO     set valve 3to 0
+07/24/2024 05:30:10 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:30:10 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:30:11 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:30:11 PM INFO     set valve 2to 1
+07/24/2024 05:30:12 PM INFO     set valve 2to 0
+07/24/2024 05:30:12 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:30:13 PM INFO     set valve 3to 1
+07/24/2024 05:30:13 PM INFO     set valve 3to 0
+07/24/2024 05:30:13 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:30:13 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:30:14 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:30:14 PM INFO     set valve 2to 1
+07/24/2024 05:30:14 PM INFO     set valve 2to 0
+07/24/2024 05:30:14 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:30:15 PM INFO     set valve 3to 1
+07/24/2024 05:30:15 PM INFO     set valve 3to 0
+07/24/2024 05:30:15 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:30:15 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:30:16 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:30:16 PM INFO     set valve 2to 1
+07/24/2024 05:30:17 PM INFO     set valve 2to 0
+07/24/2024 05:30:17 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:30:18 PM INFO     set valve 3to 1
+07/24/2024 05:30:18 PM INFO     set valve 3to 0
+07/24/2024 05:30:18 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:30:18 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:30:19 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:30:19 PM INFO     set valve 2to 1
+07/24/2024 05:30:19 PM INFO     set valve 2to 0
+07/24/2024 05:30:19 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:30:20 PM INFO     set valve 3to 1
+07/24/2024 05:30:20 PM INFO     set valve 3to 0
+07/24/2024 05:30:20 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:30:20 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:30:21 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:30:21 PM INFO     set valve 2to 1
+07/24/2024 05:30:21 PM INFO     set valve 2to 0
+07/24/2024 05:30:21 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:30:22 PM INFO     set valve 3to 1
+07/24/2024 05:30:23 PM INFO     set valve 3to 0
+07/24/2024 05:30:23 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:30:23 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:30:24 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:30:24 PM INFO     set valve 2to 1
+07/24/2024 05:30:24 PM INFO     set valve 2to 0
+07/24/2024 05:30:24 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:30:25 PM INFO     set valve 3to 1
+07/24/2024 05:30:25 PM INFO     set valve 3to 0
+07/24/2024 05:30:25 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:30:25 PM INFO     going to sleep for 1.0 seconds
+07/24/2024 05:31:01 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:31:02 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:31:02 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:02 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:02 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:02 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:31:02 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:02 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:02 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:02 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:31:03 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:03 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:03 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:03 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:31:03 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:03 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:03 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:03 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:31:03 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:04 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:04 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:04 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:31:04 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:04 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:04 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:04 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:31:04 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:04 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:05 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:05 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:31:05 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:05 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:05 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:05 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:31:05 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:05 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:05 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:06 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:31:06 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:06 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:06 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:06 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:31:06 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:06 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:06 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:06 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:31:07 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:07 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:07 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:07 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:31:07 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:07 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:07 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:07 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:31:08 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:08 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:08 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:08 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:31:08 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:08 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:08 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:08 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:31:08 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:09 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:09 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:09 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:31:09 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:09 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:09 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:09 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:31:09 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:09 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:10 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:10 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:31:10 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:10 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:10 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:10 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:31:10 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:10 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:10 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:11 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:31:11 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:11 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:11 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:11 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:31:11 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:11 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:11 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:11 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:31:12 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:12 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:12 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:12 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:31:12 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:12 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:12 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:12 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:31:13 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:13 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:13 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:13 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:31:13 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:13 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:13 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:13 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:31:13 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:14 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:14 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:14 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:31:14 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:14 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:14 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:14 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:31:14 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:14 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:15 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:15 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:31:15 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:15 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:15 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:15 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:31:15 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:15 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:15 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:16 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:31:16 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:16 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:16 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:16 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:31:16 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:16 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:16 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:16 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:31:17 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:17 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:17 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:17 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:31:17 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:17 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:17 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:17 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:31:18 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:18 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:18 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:18 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:31:18 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:18 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:18 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:18 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:31:18 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:19 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:19 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:19 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:31:19 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:19 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:19 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:19 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:31:19 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:19 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:20 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:20 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:31:20 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:20 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:20 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:20 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:31:20 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:20 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:20 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:21 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:31:21 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:21 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:21 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:21 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:31:21 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:21 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:21 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:21 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:31:22 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:22 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:22 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:22 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:31:22 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:22 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:22 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:22 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:31:23 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:23 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:23 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:23 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:31:23 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:23 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:23 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:23 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:31:23 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:24 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:24 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:31:24 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:33:22 PM INFO     Starting a new run
+07/24/2024 05:33:29 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:33:29 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:33:30 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:30 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:30 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:30 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:33:30 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:30 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:30 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:30 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:33:31 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:31 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:31 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:31 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:33:31 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:31 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:31 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:31 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:33:31 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:32 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:32 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:32 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:33:32 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:32 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:32 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:32 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:33:32 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:32 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:33 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:33 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:33:33 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:33 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:33 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:33 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:33:33 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:33 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:33 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:34 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:33:34 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:34 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:34 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:34 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:33:34 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:34 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:34 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:34 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:33:35 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:35 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:35 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:35 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:33:35 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:35 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:35 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:35 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:33:36 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:36 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:36 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:36 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:33:36 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:36 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:36 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:36 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:33:36 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:37 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:37 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:37 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:33:37 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:37 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:37 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:37 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:33:37 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:37 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:38 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:38 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:33:38 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:38 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:38 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:38 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:33:38 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:38 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:39 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:39 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:33:39 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:39 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:39 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:39 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:33:39 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:39 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:39 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:40 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:33:40 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:40 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:40 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:40 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:33:40 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:40 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:40 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:40 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:33:41 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:41 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:41 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:41 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:33:41 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:41 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:41 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:41 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:33:42 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:42 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:42 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:42 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:33:42 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:42 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:42 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:42 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:33:42 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:43 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:43 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:43 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:33:43 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:43 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:43 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:43 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:33:43 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:43 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:44 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:44 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:33:44 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:44 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:44 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:44 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:33:44 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:44 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:44 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:45 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:33:45 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:45 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:45 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:45 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:33:45 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:45 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:45 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:45 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:33:46 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:46 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:46 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:46 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:33:46 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:46 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:46 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:46 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:33:47 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:47 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:47 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:47 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:33:47 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:47 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:47 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:47 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:33:47 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:48 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:48 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:48 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:33:48 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:48 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:48 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:48 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:33:48 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:48 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:49 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:49 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:33:49 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:49 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:49 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:49 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:33:49 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:49 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:49 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:50 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:33:50 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:50 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:50 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:50 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:33:50 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:50 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:50 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:50 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:33:51 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:51 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:51 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:51 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:33:51 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:51 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:51 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:51 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:33:51 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:52 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:52 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:33:52 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:34:59 PM INFO     Starting a new run
+07/24/2024 05:35:06 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:35:06 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:35:35 PM INFO     Starting a new run
+07/24/2024 05:35:42 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:35:42 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:36:07 PM INFO     Starting a new run
+07/24/2024 05:36:11 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:36:12 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:36:44 PM INFO     Starting a new run
+07/24/2024 05:36:49 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:36:49 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:37:39 PM INFO     Starting a new run
+07/24/2024 05:37:45 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:37:45 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:38:49 PM INFO     Starting a new run
+07/24/2024 05:38:56 PM INFO     Starting a new run
+07/24/2024 05:39:01 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:39:01 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:44:31 PM INFO     Starting a new run
+07/24/2024 05:44:37 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:44:37 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:44:38 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:38 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:38 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:38 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:44:38 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:38 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:38 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:38 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:44:38 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:39 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:39 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:39 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:44:39 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:39 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:39 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:39 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:44:39 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:39 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:40 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:40 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:44:40 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:40 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:40 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:40 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:44:40 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:40 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:40 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:41 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:44:41 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:41 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:41 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:41 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:44:41 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:41 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:41 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:41 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:44:42 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:42 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:42 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:42 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:44:42 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:42 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:42 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:42 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:44:43 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:43 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:43 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:43 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:44:43 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:43 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:43 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:43 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:44:43 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:44 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:44 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:44 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:44:44 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:44 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:44 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:44 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:44:44 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:44 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:45 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:45 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:44:45 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:45 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:45 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:45 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:44:45 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:45 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:45 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:46 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:44:46 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:46 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:46 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:46 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:44:46 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:46 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:46 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:46 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:44:47 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:47 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:47 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:47 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:44:47 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:47 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:47 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:47 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:44:48 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:48 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:48 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:48 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:44:48 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:48 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:48 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:48 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:44:48 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:49 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:49 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:49 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:44:49 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:49 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:44:49 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:00 PM INFO     Starting a new run
+07/24/2024 05:45:05 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:05 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:05 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:06 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:06 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:06 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:06 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:06 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:06 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:06 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:06 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:06 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:07 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:07 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:07 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:07 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:07 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:07 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:07 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:07 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:07 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:08 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:08 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:08 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:08 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:08 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:08 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:08 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:08 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:08 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:09 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:09 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:09 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:09 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:09 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:09 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:09 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:09 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:10 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:10 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:10 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:10 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:10 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:10 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:10 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:10 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:10 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:11 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:11 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:11 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:11 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:11 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:11 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:11 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:11 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:12 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:12 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:12 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:12 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:12 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:12 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:12 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:12 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:12 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:13 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:13 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:13 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:13 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:13 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:13 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:13 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:13 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:13 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:14 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:14 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:14 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:14 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:14 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:14 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:14 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:14 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:14 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:15 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:15 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:15 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:15 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:15 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:15 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:15 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:15 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:15 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:16 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:16 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:16 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:16 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:16 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:16 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:16 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:16 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:16 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:17 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:17 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:17 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:17 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:17 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:17 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:17 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:17 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:17 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:18 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:18 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:18 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:18 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:18 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:18 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:18 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:18 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:18 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:19 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:19 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:19 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:19 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:19 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:19 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:19 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:19 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:20 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:20 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:20 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:20 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:20 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:20 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:20 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:20 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:20 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:21 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:21 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:21 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:21 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:21 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:21 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:21 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:21 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:21 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:22 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:22 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:22 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:22 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:22 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:22 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:22 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:22 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:22 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:23 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:23 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:23 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:23 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:23 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:23 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:23 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:23 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:23 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:24 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:24 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:24 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:24 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:24 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:24 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:24 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:24 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:25 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:25 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:25 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:25 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:25 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:25 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:25 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:25 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:25 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:26 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:26 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:26 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:26 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:26 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:26 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:26 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:26 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:26 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:27 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:27 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:27 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:27 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:27 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:27 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:27 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:27 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:27 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:28 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:28 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:28 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:28 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:28 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:28 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:28 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:28 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:28 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:29 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:29 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:29 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:29 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:29 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:29 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:29 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:29 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:29 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:30 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:30 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:30 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:30 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:30 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:30 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:30 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:30 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:31 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:31 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:31 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:31 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:31 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:31 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:31 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:31 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:31 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:32 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:32 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:32 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:32 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:32 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:32 PM INFO     The pressure is 6.983077220000001e-06
+07/24/2024 05:45:32 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:32 PM INFO     going to sleep for 0.1 seconds
+07/24/2024 05:45:32 PM INFO     going to sleep for 0.1 seconds

@@ -12,22 +12,22 @@ import nest_asyncio
 nest_asyncio.apply()
 from alicat import FlowController
 from pylablib.devices import Pfeiffer
+import matplotlib.pyplot as plt
+from matplotlib.animation import FuncAnimation
 
 #setup logger
 logging.basicConfig(filename='ALD_runtimeLog.log',level=logging.INFO,format="%(asctime)s %(levelname)-8s %(message)s",datefmt="%m/%d/%Y %I:%M:%S %p")
 logging.info("Starting a new run")
 #ALL VARIABLES DEFINED HERE
 
-fc1 ='/dev/serial/by-id/usb-FTDI_FT232R_USB_UART_B001OROI-if00-port0' #Ar
-fc2 ='/dev/serial/by-id/usb-FTDI_FT232R_USB_UART_B001OROM-if00-port0'
-fc3 = '/dev/serial/by-id/usb-FTDI_FT232R_USB_UART_B001ORON-if00-port0'
+fc1 ='/dev/serial/by-id/usb-FTDI_FT232R_USB_UART_B001OROI-if00-port0' #Ar unit B
+fc2 ='/dev/serial/by-id/usb-FTDI_FT232R_USB_UART_B001OROU-if00-port0' #N2 unit D
+fc3 = '/dev/serial/by-id/usb-FTDI_FT232R_USB_UART_B001OROR-if00-port0' #Ar unit C MO line
 
 pressaddr = "/dev/serial/by-id/usb-Pfeiffer_Vacuum_DPG202-if00"
 relayaddr = "/dev/serial/by-id/usb-Numato_Systems_Pvt._Ltd._Numato_Lab_8_Channel_USB_Relay_Module_NLRL220216A0258-if00"
 #Open port for communication with relays borrowed from https://github.com/numato/samplecode/tree/master/RelayAndGPIOModules/USBRelayAndGPIOModules/python/usbrelay1_2_4_8
 relayPort = serial.Serial(relayaddr, 19200, timeout=1)
-
-
 
 ################## DON'T TOUCH ANYTHING BELOW THIS LINE ###################
 #Let's write what will eventually be in the library
@@ -56,15 +56,17 @@ async def setMFC(flowcontroller, value):
             await flow_controller.set_flow_rate(value)
         logging.info("set mfc at " + str(f'{flowcontroller}') + "to " + str(f'{value}'))
         msg = "success! I think."
-    elif flowcontroller == "ArP":
-        async with FlorController(address=fc3, unit="B") as flow_controller:
+    elif flowcontroller == "ArMo":
+        async with FlowController(address=fc3, unit="C") as flow_controller:
             await flow_controller.set_flow_rate(value)
         logging.info("set mfc at " + str(f'{flowcontroller}') + "to " + str(f'{value}'))
         msg = "success! I think."
+
     else:
         msg = ("Not sure what to do!")
+        print(msg)
     return msg
-    #print("mfc conditons are " + addr.get())
+    #print("mfc conditonsArMo  are " + addr.get())
     
 
 def setValve(addr, value):
@@ -104,19 +106,25 @@ def setPlasmaState(addr, state):
     
 #This function will call the functions above and take an entire line in the CSV file and set the values of everything accordingly
 def setVar(line, oldline):
-    #addresses=np.array([flow_controller_1, flow_controller_2, flow_controller_3, flow_controller_4, plasmaaddr, plasmaaddr, aldv1addr, aldv2addr, aldv3addr, aldv4addr, mfcv1addr, mfcv2addr, mfcv3addr, mfcv4addr])
-    for i in range(0,14,1):
-        print(str(line[i])+","+str(oldline[i]))
-        if line[i] != -1 and line[i] != oldline[i]: #Set value to -1 for cue to ignore
+    addresses=["Ar","N2","ArMo","H2","plasmaaddr","plasmastate","",2,3,"",1,"","",""] #String inputs expected by each function for MFC, plasma, relay/solenoid controller
+    for i in range(len(line)):
+        if int(line[i]) == -1:#Set value to -1 for cue to ignore
+            pass
+        elif line[i] != oldline[i]: #only run this if the new line is not equal to the old line
             if i <= 3: #MFCs
-                setMFC(addresses[i], line[i])
-            elif i >> 3 and i<=5:
-                print("plasma")
-            elif i <= 14:
-                setValve(i-5, line[i])
-                print("made it to setvalve!")
+                asyncio.get_event_loop().run_until_complete(setMFC(addresses[i], int(line[i])))           
+            elif 3 < i <=5:
+                logging.info("plasma")
+            elif 5 < i < 10:#ALD valve operation does the sleep in here to get the timing right
+                setValve(addresses[i], int(line[i]))
+                time.sleep(line[14])
+                setValve(addresses[i], 0)
+            elif 10 <= i < 14:
+                setValve(addresses[i], line[14]) #This is for the MFC protection valves only. May want to just open those manually at the start, and leave the recipe file as all -1's here. 
+                 
+                
         else:
-            print("here I am"+str(i))
+            pass
 
 def readPressure(): #DPG202 USB interface
     gauge = Pfeiffer.DPG202(pressaddr)
@@ -125,23 +133,38 @@ def readPressure(): #DPG202 USB interface
     gauge.close()
     return(press)
 
-    
-def allOff():
-    setVar[np.array([0,0,0,0,0,0,0,0,0,0,0,0,0])]
-    
+ 
 #Main lib to run, calling functions defined above
 def aldRun(file, loops):
     data = pd.read_csv(file)
     dataNP = data.to_numpy()
     print(dataNP)
-    #This is the number of loops the user wants to iterate the current file
-    for i in range(loops):
-        logging.info(readPressure())
-        #For each row in the .csv file, we want to set the experimental parameters accordingly
-        for j in range(0,len(dataNP),1):
-            if j >= 0: #Sending the current line and previous line for comparison in setVar
+    t_start=time.time()
+    pressure = [readPressure()]
+    t_array = [time.time()-t_start]
+    fig = plt.figure()
+    ax = fig.add_subplot(111)
+    for i in range(loops): #This is the number of loops the user wants to iterate the current file
+        for j in range(0,len(dataNP),1):#For each row in the .csv file, we want to set the experimental parameters accordingly
+            if j >> 0: #Sending the current line and previous line for comparison in setVar
                 setVar(dataNP[j], dataNP[j-1])
-                time.sleep(dataNP[j][13])
+                logging.info('going to sleep for {} seconds'.format(dataNP[j][14]))
+                time.sleep(dataNP[j][14]) #I had to move the sleep for the ALD pulses into the setVar, so we have a redundant sleep here on recipe lines where the ald valves cycle. But, this one happens after the ald valve opens and closes, so it shouldn't be a big deal.
             elif j == 0: #sending the first line and the first line changed by a bit to ensure all values are set
+                #plotting instructions
+                curPressure = readPressure()
+                pressure.append(curPressure)
+                t_array.append(time.time()-t_start)
+                if len(pressure) > 50:
+                    pressure.pop(0)
+                    t_array.pop(0)
+                
+                ax.clear()
+                ax.scatter(t_array, pressure)
+                ax.set_xlim(left=t_array[0], right=t_array[0]+50)#the +100 part may eventually need adjusting. 
+                fig.canvas.draw()
+                plt.pause(0.1)
                 setVar(dataNP[j], dataNP[j]+1)
+    print(pressure)
+                
                 

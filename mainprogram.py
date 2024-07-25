@@ -1,5 +1,5 @@
 #Main Program Loop Here. Don't forget to import the library.
-import zakjeffALDLibrary as aldGO
+import zakjeffALDLibrary_rev2dev as aldGO
 import asyncio
 
 while True:
@@ -15,7 +15,7 @@ while True:
             if manualinput == 'done':
                 break
             elif manualinput == 'setMFC':
-                fc=input("which flow controller do you want to set? Ar or N2")
+                fc=input("which flow controller do you want to set? Ar or N2 or ArMo")
                 setpoint=int(input("what setpoint do you want?"))
                 print(asyncio.run(aldGO.setMFC(fc, setpoint)))
             elif manualinput == 'setValve':
