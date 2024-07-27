@@ -16,7 +16,7 @@ import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
 
 #setup logger
-logging.basicConfig(filename='ALD_runtimeLog.log',level=logging.INFO,format="%(asctime)s %(levelname)-8s %(message)s",datefmt="%m/%d/%Y %I:%M:%S %p")
+logging.basicConfig(filename='ALD_runtimeLog_26July2024.log',level=logging.INFO,format="%(asctime)s %(levelname)-8s %(message)s",datefmt="%m/%d/%Y %I:%M:%S %p")
 logging.info("Starting a new run")
 #ALL VARIABLES DEFINED HERE
 
@@ -45,7 +45,7 @@ def fileInput():
         print(f"An error occurred while trying to read the file: {e}") 
     return file_name
 
-async def setMFC(flowcontroller, value):
+async def setMFC(flowcontroller, value): #This works, but the if statements can probably be removed and the flowcontroller variable just passed into the alicat method.
     if flowcontroller == "Ar":
         async with FlowController(address=fc1, unit="B") as flow_controller:
             await flow_controller.set_flow_rate(value)
@@ -79,7 +79,7 @@ def setValve(addr, value):
     elif value == "close":
         relayPort.close()
 
-def getValve():
+def getValve(): #This appears to give pretty random results, not sure why. 
     for i in range(0,9,1):
         relayPort.write(("relay read " + str(i) + "\n\r").encode())
         response = relayPort.read(25)
@@ -90,7 +90,7 @@ def getValve():
         else:
             print(response)
 
-def closeValve():
+def closeValve(): #This closes all of the relays
     for i in range(0,9,1):
         relayPort.write(("relay off "+str(i)+"\n\r").encode())
 
@@ -112,7 +112,7 @@ def setVar(line, oldline):
             pass
         elif line[i] != oldline[i]: #only run this if the new line is not equal to the old line
             if i <= 3: #MFCs
-                asyncio.get_event_loop().run_until_complete(setMFC(addresses[i], int(line[i])))           
+                asyncio.get_event_loop().run_until_complete(setMFC(addresses[i], int(line[i])))  
             elif 3 < i <=5:
                 logging.info("plasma")
             elif 5 < i < 10:#ALD valve operation does the sleep in here to get the timing right
@@ -121,8 +121,6 @@ def setVar(line, oldline):
                 setValve(addresses[i], 0)
             elif 10 <= i < 14:
                 setValve(addresses[i], line[14]) #This is for the MFC protection valves only. May want to just open those manually at the start, and leave the recipe file as all -1's here. 
-                 
-                
         else:
             pass
 
@@ -139,31 +137,32 @@ def aldRun(file, loops):
     data = pd.read_csv(file)
     dataNP = data.to_numpy()
     print(dataNP)
+    logging.info("here is the recipe file numpy array " + str(dataNP))
+    logging.info("User asked to run the loops this many times " + str(loops)) 
     t_start=time.time()
     pressure = [readPressure()]
     t_array = [time.time()-t_start]
     fig = plt.figure()
     ax = fig.add_subplot(111)
-    for i in range(loops): #This is the number of loops the user wants to iterate the current file
+    for i in range(loops): #This is the number of loops the user wants to iterate the current file (ie - number of ALD cycles)
         for j in range(0,len(dataNP),1):#For each row in the .csv file, we want to set the experimental parameters accordingly
+            #plotting instructions from here to if statement below
+            curPressure = readPressure()
+            pressure.append(curPressure)
+            t_array.append(time.time()-t_start)
+            if len(pressure) > 100:
+                pressure.pop(0)
+                t_array.pop(0)
+            ax.clear()
+            ax.scatter(t_array, pressure)
+            ax.set_xlim(left=t_array[0], right=t_array[0]+120)#the +100 part may eventually need adjusting. 
+            fig.canvas.draw()
+            plt.pause(0.05) #This adds 50ms to each line, but doesn't interfere with ALD valve timing
             if j >> 0: #Sending the current line and previous line for comparison in setVar
                 setVar(dataNP[j], dataNP[j-1])
                 logging.info('going to sleep for {} seconds'.format(dataNP[j][14]))
                 time.sleep(dataNP[j][14]) #I had to move the sleep for the ALD pulses into the setVar, so we have a redundant sleep here on recipe lines where the ald valves cycle. But, this one happens after the ald valve opens and closes, so it shouldn't be a big deal.
-            elif j == 0: #sending the first line and the first line changed by a bit to ensure all values are set
-                #plotting instructions
-                curPressure = readPressure()
-                pressure.append(curPressure)
-                t_array.append(time.time()-t_start)
-                if len(pressure) > 50:
-                    pressure.pop(0)
-                    t_array.pop(0)
-                
-                ax.clear()
-                ax.scatter(t_array, pressure)
-                ax.set_xlim(left=t_array[0], right=t_array[0]+50)#the +100 part may eventually need adjusting. 
-                fig.canvas.draw()
-                plt.pause(0.1)
+            elif j == 0: #sending the first line and the first line changed by a bit to ensure all values are set. This condition will be triggered once per loop, when we go to the first row in the recipe file.
                 setVar(dataNP[j], dataNP[j]+1)
     print(pressure)
                 
